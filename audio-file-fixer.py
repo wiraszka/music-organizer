@@ -6,8 +6,8 @@ import json
 from mutagen import MutagenError
 from mutagen.mp3 import MP3
 
-# Specify directory where audio files are
-root = "C:/Users/Adam/Desktop/Projects/music/music_sample"
+# Specify directory where audio files are located
+root = "C:/Users/Adam/Desktop/Projects/music/sample-music"
 all_tags = []
 
 def get_tags(filename, song):
@@ -32,9 +32,8 @@ def get_tags(filename, song):
     tags['duration'] = extra_info.info.length
     tags['bitrate'] = extra_info.info.bitrate
 
-    #print(tags)
     all_tags.append(tags)
-    #return all_tags, tags
+    return all_tags, tags
 
 def format_file(all_tags):
     for tags in all_tags:
