@@ -1,7 +1,6 @@
 # Cleans up audio file names and tags
 import os
 import mutagen
-import re
 import json
 from mutagen import MutagenError
 from mutagen.mp3 import MP3
@@ -45,7 +44,7 @@ def format_file(all_tags):
     return all_tags
 
 def create_json(all_tags):
-    j = json.dumps(all_tags)
+    j = json.dumps(all_tags, indent=2)
     print(j)
     with open('C:/Users/Adam/Desktop/Projects/music/songs.txt','w') as songs:
         songs.write(j)
