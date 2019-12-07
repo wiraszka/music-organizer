@@ -47,39 +47,64 @@ def dl_album_cover(album_cover):
         print('Server error')
     return filename
 
-def sp_search(txt):
+def gen_search_str(song,try_number):
+    print('Attempt',try_number)
+    global search_str
+    if try_number == 1:
+        search_str = song['artist'] + ' ' + song['title']
+        print(search_str)
+        return search_str
+    if try_number == 2:
+        if 'feat.' in song['title']:
+            split = song['title'].split('feat.')
+            search_str = song['artist'] + ' ' + split[0]
+        elif 'Feat.' in song['title']:
+            split = song['title'].split('Feat.')
+            search_str = song['artist'] + ' ' + split[0]
+        elif 'Feat.' in song['title']:
+            split = song['title'].split('Feat.')
+            search_str = song['artist'] + ' ' + split[0]
+        return search_str
+    if try_number == 3:
+        search_str = song['title']
+        return search_str
+    elif try_number == 4:
+        search_str = song['artist']
+        return search_str
+
+
+# Initial sanity check
+check_json(txt)
 # Open and read json file containing song names
-    with open(txt, 'r') as j:
-        all_songs = json.loads(j.read())
-        for song in all_songs:
-            search_str = song['artist'] + ' ' + song['title']
-# Search for song (search_string) using spotify API
-            print('Searching for...', search_str)
-            result = spotify.search(search_str)
-            #pprint.pprint(result)
+with open(txt, 'r') as j:
+    all_songs = json.loads(j.read())
+    for song in all_songs:
+# Generate search string
+        try_number = 1
+        gen_search_str(song,try_number)
+# Search for song (search string) using spotify API
+        print('Searching for...', search_str)
+        result = spotify.search(search_str)
+        #pprint.pprint(result)
 # Check if search unsuccessful
-            if len(result['tracks']['items']) < 1:
-                print('Search query failed for:', search_str)
-# If unsuccessful, create new search string and try again
-                search_str = song['title']
-                print('New search string is:', search_str)
-                result = spotify.search(search_str)
-            else:
-                print('search successful')
+        while len(result['tracks']['items']) < 1:
+            print('Search query failed for:', search_str)
+# If unsuccessful, generate new search string and try again
+            try_number = try_number + 1
+            gen_search_str(song,try_number)
+            print('New search string is:', search_str)
+            result = spotify.search(search_str)
+            if try_number == 5:
+                pass
+        if len(result['tracks']['items']) > 0:
+            print('search successful')
 
 # If successful, call album_cover_download function to dl album art
-            try:
-                album_cover = result['tracks']['items'][0]['album']['images'][0]['url']
-                print('Image link is:', album_cover)
-                dl_album_cover(album_cover)
-            except:
-                album_cover = ""
-                print("image indexing error for:", search_str)
-                #pprint.pprint(result)
-
-    return search_str, album_cover
-
-
-check_json(txt)
-start(txt)
-sp_search(txt)
+        try:
+            album_cover = result['tracks']['items'][0]['album']['images'][0]['url']
+            print('Image link is:', album_cover)
+            dl_album_cover(album_cover)
+        except:
+            album_cover = ""
+            print("image indexing error for:", search_str)
+            #pprint.pprint(result)
