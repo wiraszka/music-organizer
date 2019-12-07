@@ -14,6 +14,8 @@ def get_tags(filename, song):
     tags = {
         'artist' : '',
         'title' : '',
+        'remixed_by' : '',
+        'featuring' : '',
         'album' : '',
         'genre' : '',
         'bpm' : '',
