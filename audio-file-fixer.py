@@ -6,7 +6,7 @@ from mutagen import MutagenError
 from mutagen.mp3 import MP3
 
 # Specify directory where audio files are located
-root = "C:/Users/Adam/Desktop/Projects/music/sample-music"
+root = "C:/Users/Adam/Desktop/Projects/music/sample-music-test"
 all_tags = []
 
 def get_tags(filename, song):
@@ -61,5 +61,5 @@ for song in os.listdir(root):
             get_tags(filename, song)
         except MutagenError:
             print("error")
-#format_file(all_tags)
+format_file(all_tags)
 create_json(all_tags)
