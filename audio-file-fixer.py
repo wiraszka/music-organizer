@@ -7,7 +7,8 @@ from mutagen import MutagenError
 from mutagen.mp3 import MP3
 
 # Specify directory where audio files are located
-root = "C:/Users/Adam/Desktop/Projects/music/sample-music-test"
+root = "C:/Users/Adam/Documents/Adam's Music"
+#root = "C:/Users/Adam/Desktop/Projects/music/sample-music-all"
 all_tags = []
 
 def get_tags(filename, song):
@@ -15,10 +16,11 @@ def get_tags(filename, song):
     tags = {
         'artist' : '',
         'title' : '',
-        'remixed_by' : '',
+        'mix' : '',
         'featuring' : '',
         'album' : '',
         'genre' : '',
+        'extra' : '',
         'bpm' : '',
         'duration' : '',
         'bitrate' : '',
@@ -37,80 +39,52 @@ def get_tags(filename, song):
     all_tags.append(tags)
     return all_tags, tags
 
+
 def format_title(all_tags):
 # If title tag contains 'artist' and 'title' info
 # Or if all info in filename instead of tags
     return all_tags
     pass
 
-def format_bracket_contents(all_tags):
-    for tags in all_tags:
-# check number of items contained in title tag
-        print('formatting brackets for:',tags['title'])
-        if len(tags['title']) < 1:
-            print('Error - song title field empty')
-            break
-        elif len(tags['title']) == 1:
-            print('unaffected.')
-            continue
-        elif len(tags['title']) == 2:
-            print('brackets found.')
-# Check title field for featured artist, then do some formatting
-            if not tags['title'][1].startswith('Feat' or 'feat' or 'Ft'):
-                continue
-            else:
-                tags['title'][1] = tags['title'][1].replace(('Featuring' or 'Feat' or 'feat.' or 'feat' or 'ft.'), '')
-                tags['featuring'] = tags['title'][1].replace(')','')
-                if len(tags['title']) > 2:
-                    print('noooooooooo, spliced too many things!', tags['title'])
-                tags['title'] = tags['title'][0].rstrip()
-                print('featured artist found!')
-                print('new song title:',tags['title'])
-                print('featuring:', tags['featuring'])
-# If featuring artist exists, add info to 'featuring' tag
-
-
-        elif len(tags['title']) > 2:
-            continue
-
-
-def extra():
-    split = []
-    print('blah')
-    if len(split) > 1:
-        tags['title'] = split[0].rstrip()
-        print('song title is now:', tags['title'])
-        if tags['title'][1].find('Remix'):
-            print('Remix found in title')
-            tags['remixed_by'] = split[1].replace(')','')
-            print('remixed_by field is now:',tags['remixed_by'])
-        else:
-            print('final song name:', tags['title'])
-            print('featuring...',tags['featuring'])
-    else:
-        pass
-
-
-def check_brackets(all_tags):
+def fix_brackets(all_tags):
 # Converts all bracket types to () in title tag
     for tags in all_tags:
         tags['title'] = tags['title'].replace('[', '(').replace(']', ')')
-        print(tags['title'])
-# Formats 'featured artist' identifier if found in title tag
-        for b in ['(Featuring', '(featuring', '(Feat', '(feat', '(Ft', '(ft']:
-            if b in tags['title']:
-                print('contains bracketed feat')
-                break
-            else:
-                print('does not contain bracketed feat')
-                for c in ['featuring', 'feat', 'ft']:
-                    if c in tags['title']:
-                        tags['title'] = tags['title'].replace(c, '(Feat')
-                        print('replaced:', tags['title'])
-                    else:
-                        break
+        tags['title'] = tags['title'].replace('{', '(').replace('}', ')')
+        tags['title'] = tags['title'].replace('"', '')
+        print('fixed brackets:', tags['title'])
+    return all_tags
+
+def check_featured(all_tags):
+# Sanity check
+    for tags in all_tags:
+        if '**' in tags['title']:
+            print('Error - feauted artist identifier ** already present in:', tags['title'])
+            continue
+        else:
+# Checks if a non-bracketed 'featured artist' identifier exists in title tag...
+# If yes, adds (* prefix to identifier so it can be processed correctly later
+            bracketed = False
+            for b in ['(Featuring', '(featuring', '(Feat', '(feat', '(Ft', '(ft']:
+                if b in tags['title']:
+                    print('contains bracketed feat', tags['title'])
+                    tags['title'] = tags['title'].replace(b, '(**Feat')
+                    bracketed = True
+                    break
+            for c in ['featuring', 'feat', 'ft']:
+                if c in tags['title'] and bracketed is False:
+                    tags['title'] = tags['title'].replace(c, '(**Feat')
+                else:
+                    continue
+            print('after formatting:', tags['title'])
+    return all_tags
+
+
+def splice_brackets(all_tags):
 # Checks if song contains brackets, returns spliced title tag
+    for tags in all_tags:
         if '(' not in tags['title']:
+            print('no brackets found in:', tags['title'])
             continue
         else:
             print('() found in title tag, Sliced!')
@@ -118,17 +92,96 @@ def check_brackets(all_tags):
             print(spliced)
             if len(spliced) == 1:
                 tags['title'] = spliced
-                print('song not spliced')
+                print('Error')
             elif len(spliced) == 2:
                 tags['title'] = spliced
                 print('spliced once:', tags['title'])
             elif len(spliced) > 2:
                 tags['title'] = spliced
-                print('SPLICED 2 OR MORE TIMES!!!')
+                print('SPLICED 2 OR MORE TIMES!!!', tags['title'])
             else:
                 print('something bad happened')
-    print(all_tags)
     return all_tags
+
+def format_mix_and_featured(all_tags):
+# Check if song title contains mix type information
+    for tags in all_tags:
+        print('checking song type:', tags['title'])
+        for type in ['Remix', 'remix', 'Mix', 'mix', 'Edit', 'edit', 'Flip', 'flip']:
+# Check if non-bracketed mix info exists in title tag, will only come up True if string, not a list
+
+# ADD WAY TO FORMAT UNBRACKETED MIX INFO
+
+            if type in tags['title']:
+                print('Mix information found in title but no brackets')
+                continue
+# FORMAT MIX TYPE (Remix, Original Mix, Radio Edit, etc... )
+            if len(tags['title']) > 1:
+                for item in tags['title']:
+                    for type in ['Remix', 'remix', 'Mix', 'mix', 'Edit', 'edit', 'Flip', 'flip']:
+                        if type in item:
+                            tags['mix'] = item.replace(')','').strip()
+                            try:
+                                tags['title'].remove(item).strip()
+                            except:
+                                continue
+                            print('mix tag is now:', tags['mix'])
+                            print('title tag is now:', tags['title'])
+                        else:
+                            continue
+            else:
+                continue
+# FORMAT FEATURED ARTIST **
+        try:
+            for item in tags['title']:
+                if not item.startswith('**'):
+                    continue
+# If featured artist exists, add info to 'featuring' tag and remove item from title tag
+                else:
+                    tags['featuring'] = item.replace('**Feat.', '').replace(')','').strip()
+                    tags['title'].remove(item)
+        except:
+            print('title not list!!!')
+
+
+
+def final_formatting(all_tags):
+    for tags in all_tags:
+# check number of items contained in title tag
+        print('formatting title contents for:',tags['title'])
+        if len(tags['title']) < 1:
+            print('Error - song title field empty')
+            break
+# Check contents of title tag: string, one member list or multi-member list
+        try:
+            tags['title'].sort()
+            count = 0
+            for c in tags['title']:
+                count = count + 1
+# If title tag contains string, leave for now
+
+        except:
+            tags['title'] = tags['title'].strip()
+            print('one string in title tag. unaffected.', tags['title'])
+
+        if count == 1:
+            print('found one item as type=list')
+            tags['title'] = str(tags['title']).replace("[","").replace("]","").replace("'","").replace('"','').strip()
+
+        elif count == 2:
+            print('found two items in title tag. Starting formatting...')
+            for item in tags['title']:
+                if ')' in item:
+                    tags['extra'] = item.replace(')','').strip()
+                    tags['title'].remove(item)
+                    tags['title'] = str(tags['title']).replace("[","").replace("]","").replace("'","").strip()
+        else:
+            continue
+
+        print('FINAL TITLE:', tags['title'], 'FEATURING:', tags['featuring'], 'MIX TYPE:', tags['mix'], 'EXTRA INFO:', tags['extra'])
+
+
+
 
 def create_json(all_tags):
     j = json.dumps(all_tags, indent=2)
@@ -147,6 +200,9 @@ for song in os.listdir(root):
         except MutagenError:
             print("error")
 format_title(all_tags)
-check_brackets(all_tags)
-format_bracket_contents(all_tags)
+fix_brackets(all_tags)
+check_featured(all_tags)
+splice_brackets(all_tags)
+format_mix_and_featured(all_tags)
+final_formatting(all_tags)
 create_json(all_tags)
