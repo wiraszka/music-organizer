@@ -7,8 +7,8 @@ from mutagen import MutagenError
 from mutagen.mp3 import MP3
 
 # Specify directory where audio files are located
-root = "C:/Users/Adam/Documents/Adam's Music"
-#root = "C:/Users/Adam/Desktop/Projects/music/sample-music-all"
+#root = "C:/Users/Adam/Documents/Adam's Music"
+root = "C:/Users/Adam/Desktop/Projects/music/sample-music-test"
 all_tags = []
 
 def get_tags(filename, song):
@@ -37,10 +37,16 @@ def get_tags(filename, song):
     tags['bitrate'] = extra_info.info.bitrate
 # Create list containing all songs and tags
     all_tags.append(tags)
-    return all_tags, tags
+    global old_tags
+    old_tags = all_tags
+    old_tags = json.dumps(old_tags, indent=2)
+    with open('C:/Users/Adam/Desktop/Projects/music/original-info.txt','w') as original:
+        original.write(old_tags)
+
+    return all_tags, tags, old_tags
 
 
-def format_title(all_tags):
+def fix_title(all_tags):
 # If title tag contains 'artist' and 'title' info
 # Or if all info in filename instead of tags
     return all_tags
@@ -181,15 +187,12 @@ def final_formatting(all_tags):
         print('FINAL TITLE:', tags['title'], 'FEATURING:', tags['featuring'], 'MIX TYPE:', tags['mix'], 'EXTRA INFO:', tags['extra'])
 
 
-
-
 def create_json(all_tags):
-    j = json.dumps(all_tags, indent=2)
-    print(j)
+    song_info = json.dumps(all_tags, indent=2)
+    print(song_info)
     with open('C:/Users/Adam/Desktop/Projects/music/songs.txt','w') as songs:
-        songs.write(j)
-    return j
-
+        songs.write(song_info)
+    return song_info
 
 
 for song in os.listdir(root):
@@ -199,10 +202,12 @@ for song in os.listdir(root):
             get_tags(filename, song)
         except MutagenError:
             print("error")
-format_title(all_tags)
+            continue
+fix_title(all_tags)
 fix_brackets(all_tags)
 check_featured(all_tags)
 splice_brackets(all_tags)
 format_mix_and_featured(all_tags)
 final_formatting(all_tags)
 create_json(all_tags)
+error_check(all_tags, old_tags)
