@@ -7,13 +7,14 @@ from mutagen import MutagenError
 from mutagen.mp3 import MP3
 
 # Specify directory where audio files are located
-#root = "C:/Users/Adam/Documents/Adam's Music"
-root = "C:/Users/Adam/Desktop/Projects/music/sample-music-test"
+root = "C:/Users/Adam/Documents/Adam's Music"
+#root = "C:/Users/Adam/Desktop/Projects/music/sample-music-test"
 all_tags = []
 
 def get_tags(filename, song):
 # Retrieves relevant file tags for each song, then puts them in dict with the following keys:
     tags = {
+        'id' : '',
         'artist' : '',
         'title' : '',
         'mix' : '',
@@ -26,17 +27,24 @@ def get_tags(filename, song):
         'bitrate' : '',
         }
     info = mutagen.File(filename, easy=True)
+
     for key in tags.keys():
         if key in info.keys():
             tags[key] = info.get(key)[0]
         if key not in info.keys():
-            tags[key] = "None"
+            tags[key] = 'None'
 # Get song duration and bitrate using MP3 module
     extra_info = MP3(filename)
     tags['duration'] = extra_info.info.length
     tags['bitrate'] = extra_info.info.bitrate
 # Create list containing all songs and tags
     all_tags.append(tags)
+# Add 'id' number
+    count = 0
+    for item in all_tags:
+        count += 1
+        item['id'] = count
+# Create copy of all_tags to stay unmodified (old_tags) and save as .txt
     global old_tags
     old_tags = all_tags
     old_tags = json.dumps(old_tags, indent=2)
@@ -113,7 +121,7 @@ def format_mix_and_featured(all_tags):
 # Check if song title contains mix type information
     for tags in all_tags:
         print('checking song type:', tags['title'])
-        for type in ['Remix', 'remix', 'Mix', 'mix', 'Edit', 'edit', 'Flip', 'flip']:
+        for type in ['Remix', 'remix', 'Mix', 'mix', 'Edit', 'edit', 'Flip', 'flip', 'FLIP', 'Mashup', 'mashup', 'Cover', 'cover', 'Bootleg', 'bootleg', 'Re-Work', 'Re-work', 're-work']:
 # Check if non-bracketed mix info exists in title tag, will only come up True if string, not a list
 
 # ADD WAY TO FORMAT UNBRACKETED MIX INFO
@@ -210,4 +218,3 @@ splice_brackets(all_tags)
 format_mix_and_featured(all_tags)
 final_formatting(all_tags)
 create_json(all_tags)
-error_check(all_tags, old_tags)
