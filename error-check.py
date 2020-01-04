@@ -3,8 +3,8 @@ import os
 import json
 import sys
 
-root = "C:/Users/Adam/Documents/Adam's Music"
-#root = "C:/Users/Adam/Desktop/Projects/music/sample-music-test"
+#root = "C:/Users/Adam/Documents/Adam's Music"
+root = "C:/Users/Adam/Desktop/Projects/music/sample-music-test"
 input_txt = "C:/Users/Adam/Desktop/Projects/music/original-info.txt"
 output_txt = "C:/Users/Adam/Desktop/Projects/music/songs.txt"
 

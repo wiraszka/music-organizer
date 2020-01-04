@@ -7,8 +7,8 @@ from mutagen import MutagenError
 from mutagen.mp3 import MP3
 
 # Specify directory where audio files are located
-root = "C:/Users/Adam/Documents/Adam's Music"
-#root = "C:/Users/Adam/Desktop/Projects/music/sample-music-test"
+#root = "C:/Users/Adam/Documents/Adam's Music"
+root = "C:/Users/Adam/Desktop/Projects/music/sample-music-test"
 all_tags = []
 
 def get_tags(filename, song):
@@ -73,7 +73,7 @@ def check_featured(all_tags):
 # Sanity check
     for tags in all_tags:
         if '**' in tags['title']:
-            print('Error - feauted artist identifier ** already present in:', tags['title'])
+            print('Error - featured artist identifier ** already present in:', tags['title'])
             continue
         else:
 # Checks if a non-bracketed 'featured artist' identifier exists in title tag...

@@ -1,5 +1,29 @@
 ## music-organizer
 
+# Current functionalities
+
+**1) audio-file-fixer.py**
+- input is a directory with music files
+- scans files for proper music format (mp3)
+- scans metadata of all music files and reformats them into specified fields
+- creates txt file with original media tags "original-info.txt"
+- reformats tags to include 'remixed by', 'featuring', 'mix'
+- creates txt file with new media tags "songs.txt"
+
+**2) spotify-lookup.py**
+-
+
+
+
+**3) error-checking.py**
+
+
+
+
+
+
+
+
 # Functionalities to add:
 
 **1) audio-file-fixer.py**

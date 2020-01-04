@@ -51,24 +51,22 @@ def gen_search_str(song,try_number):
     print('Attempt',try_number)
     global search_str
     if try_number == 1:
-        search_str = song['artist'] + ' ' + song['title']
-        print(search_str)
-        return search_str
+        if song['mix'] != 'None':
+            search_str = song['artist'] + ' ' + song['title'] + ' ' + song['mix']
+            print(search_str)
+            return search_str
+        else:
+            search_str = song['artist'] + ' ' + song['title']
+            print(search_str)
+            return search_str
     if try_number == 2:
-        if 'feat.' in song['title']:
-            split = song['title'].split('feat.')
-            search_str = song['artist'] + ' ' + split[0]
-        elif 'Feat.' in song['title']:
-            split = song['title'].split('Feat.')
-            search_str = song['artist'] + ' ' + split[0]
-        elif 'Feat.' in song['title']:
-            split = song['title'].split('Feat.')
-            search_str = song['artist'] + ' ' + split[0]
-        return search_str
-    if try_number == 3:
-        search_str = song['title']
-        return search_str
-    elif try_number == 4:
+        if song['mix'] != 'None':
+            search_str = song['title'] + ' ' + song['mix']
+            return search_str
+        else:
+            search_str = song['title']
+            return search_str
+    elif try_number == 3:
         search_str = song['artist']
         return search_str
 
@@ -94,7 +92,7 @@ with open(txt, 'r') as j:
             gen_search_str(song,try_number)
             print('New search string is:', search_str)
             result = spotify.search(search_str)
-            if try_number == 5:
+            if try_number == 3:
                 pass
         if len(result['tracks']['items']) > 0:
             print('search successful')
@@ -106,5 +104,5 @@ with open(txt, 'r') as j:
             dl_album_cover(album_cover)
         except:
             album_cover = ""
-            print("image indexing error for:", search_str)
+            print("Image indexing error for:", search_str)
             #pprint.pprint(result)
