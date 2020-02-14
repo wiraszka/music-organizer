@@ -1,0 +1,4678 @@
+[
+  {
+    "track": "Everything I Wanted",
+    "artist": "Billie Eilish"
+  },
+  {
+    "track": "Pursuit of Happiness",
+    "artist": "KiD CuDi"
+  },
+  {
+    "track": "Loud Pipes",
+    "artist": "Ratatat"
+  },
+  {
+    "track": "One for the Road",
+    "artist": "Arctic Monkeys"
+  },
+  {
+    "track": "On My Own (feat. Nefera)",
+    "artist": "TroyBoi"
+  },
+  {
+    "track": "No One (Coyote Kisses Remix)",
+    "artist": "Golden Features"
+  },
+  {
+    "track": "Illusion",
+    "artist": "Synchronice"
+  },
+  {
+    "track": "No Money (Extended Mix)",
+    "artist": "Galantis"
+  },
+  {
+    "track": "Waters of Monaco",
+    "artist": "ZHU"
+  },
+  {
+    "track": "Don't Let Me Go (Ft. Amy Pearson) (Jade Blue Remix)",
+    "artist": "The Prototypes"
+  },
+  {
+    "track": "Strobe (Piano Cover)",
+    "artist": "Evan Duffy"
+  },
+  {
+    "track": "1975",
+    "artist": "Nolan van Lith"
+  },
+  {
+    "track": "Push feat. Andrew Wyatt (The Chainsmokers Remix)",
+    "artist": "A-Trak"
+  },
+  {
+    "track": "You're On (ft. Kyan)",
+    "artist": "Madeon"
+  },
+  {
+    "track": "Audio",
+    "artist": "Spencer Brown & Liam Hathaway"
+  },
+  {
+    "track": "Automatic",
+    "artist": "ZHU x AlunaGeorge"
+  },
+  {
+    "track": "White Noise (Hotel Garuda Mashup)",
+    "artist": "Disclosure x MNEK vs Klingande"
+  },
+  {
+    "track": "Sad Machine",
+    "artist": "Porter Robinson"
+  },
+  {
+    "track": "Crush",
+    "artist": "Paul van Dyk"
+  },
+  {
+    "track": "Driving To Heaven (Tiesto)",
+    "artist": "Mat Zo"
+  },
+  {
+    "track": "Who Gives",
+    "artist": "Alok & Shapeless"
+  },
+  {
+    "track": "In for the Kill (Skream Remix)",
+    "artist": "La Roux "
+  },
+  {
+    "track": "Fetch Your Life (Icarus Remix)",
+    "artist": "Prince Kaybee"
+  },
+  {
+    "track": "Back to You (prod. Hunter Siegel & Pro Logic)",
+    "artist": "Omar LinX"
+  },
+  {
+    "track": "Make Me Fade",
+    "artist": "Vanic & K.Flay"
+  },
+  {
+    "track": "Stars Tonight",
+    "artist": "Zeds Dead & DROELOE"
+  },
+  {
+    "track": "Need U",
+    "artist": "Dallerium"
+  },
+  {
+    "track": "In Disbelief",
+    "artist": "Shadient"
+  },
+  {
+    "track": "Venice Queen",
+    "artist": "Red Hot Chili Peppers"
+  },
+  {
+    "track": "The Little Things (Kasbo Remix)",
+    "artist": "Big Gigantic"
+  },
+  {
+    "track": "Seals & Crofts",
+    "artist": "Summer Breeze"
+  },
+  {
+    "track": "The Great Exchange",
+    "artist": "Thrice"
+  },
+  {
+    "track": "Hold My Soul",
+    "artist": "Trails"
+  },
+  {
+    "track": "Clint Eastwood",
+    "artist": "Gorillaz"
+  },
+  {
+    "track": "Neon Murder",
+    "artist": "Noisecream"
+  },
+  {
+    "track": "City Lights",
+    "artist": "Truth x Lies"
+  },
+  {
+    "track": "Tokyo (feat. XIRA)",
+    "artist": "3LAU"
+  },
+  {
+    "track": "Strobe (Feed Me Remix)",
+    "artist": "Deadmau5"
+  },
+  {
+    "track": "The Host (WHTKD Remix)",
+    "artist": "The Weeknd"
+  },
+  {
+    "track": "You Know You Like It (Tchami Remix)",
+    "artist": "AlunaGeorge"
+  },
+  {
+    "track": "You & Me (Disclosure)",
+    "artist": "Flume"
+  },
+  {
+    "track": "Pursuit Of Happiness (Steve Aoki Remix)",
+    "artist": "Kid Cudi"
+  },
+  {
+    "track": "ZHU Mix 2018 - Ringos Desert Full Album Mix",
+    "artist": null
+  },
+  {
+    "track": "Rhyme or Reason",
+    "artist": "Eminem"
+  },
+  {
+    "track": "Icarus",
+    "artist": "Madeon"
+  },
+  {
+    "track": "Step by Step (Live Studio Session)",
+    "artist": "Uppermost ft. Sara"
+  },
+  {
+    "track": "Cowboy (Zeds Dead Remix)",
+    "artist": "Omar Linx"
+  },
+  {
+    "track": "I Need You More",
+    "artist": "ATTLAS"
+  },
+  {
+    "track": "Quirk",
+    "artist": "Flume"
+  },
+  {
+    "track": "Terrified (Zikomo Remix)",
+    "artist": "Childish Gambino"
+  },
+  {
+    "track": "DISTANCE",
+    "artist": "Hippie Sabotage"
+  },
+  {
+    "track": "Take Cover",
+    "artist": "Yoe Mase"
+  },
+  {
+    "track": "Lotus",
+    "artist": "Shadient"
+  },
+  {
+    "track": "Keep This Sun & Moon (Johan Malmgren Mash-Up)",
+    "artist": "Audien vs. Above & Beyond"
+  },
+  {
+    "track": "Wake Up",
+    "artist": "Zeds Dead & Omar LinX"
+  },
+  {
+    "track": "The Thrill - Porter Robinson Remix",
+    "artist": "NERO"
+  },
+  {
+    "track": "Hypnotic",
+    "artist": "Vanic & Zella Day"
+  },
+  {
+    "track": "Liar Liar",
+    "artist": "Avicii"
+  },
+  {
+    "track": "Divinity (ODESZA Remix)",
+    "artist": "Porter Robinson ft. Amy Millan"
+  },
+  {
+    "track": "Keep On Rocking",
+    "artist": "New Northern"
+  },
+  {
+    "track": "BDY (Joe Mason Remix)",
+    "artist": "Stalgia"
+  },
+  {
+    "track": "Out Of My Mind (Original Mix)",
+    "artist": "Bingo Players"
+  },
+  {
+    "track": "Redbone (Kuga Remix)",
+    "artist": "Childish Gambino"
+  },
+  {
+    "track": "On Melancholy Hill",
+    "artist": "Gorillaz"
+  },
+  {
+    "track": "Eskimo",
+    "artist": "SoDown & Mr. Bill"
+  },
+  {
+    "track": "What You Know (Religion Remix)",
+    "artist": "Two Door Cinema Club"
+  },
+  {
+    "track": "California Girls (Slackin' Beats Remix)",
+    "artist": "NoMBe"
+  },
+  {
+    "track": "Drowning",
+    "artist": "ZHU"
+  },
+  {
+    "track": "Chasing Light - Pt. 2",
+    "artist": "Memba"
+  },
+  {
+    "track": "Strobe (Live Version)",
+    "artist": "Deadmau5"
+  },
+  {
+    "track": "Soundtrack 2 My Life",
+    "artist": "KiD CuDi"
+  },
+  {
+    "track": "Beggars",
+    "artist": "Thrice"
+  },
+  {
+    "track": "Over You",
+    "artist": "Oliver Smith"
+  },
+  {
+    "track": "I'm In Midnight City (ANDY Mashup)",
+    "artist": "AlunaGeorge Vs. M83"
+  },
+  {
+    "track": "Treat You Better (Cassian Remix)",
+    "artist": "R\u00c3\u0153F\u00c3\u0153S DU SOL "
+  },
+  {
+    "track": "Dream",
+    "artist": "Autograf"
+  },
+  {
+    "track": "UR LUV",
+    "artist": "DISKORD"
+  },
+  {
+    "track": "Gaia (Neus Remix)",
+    "artist": "SACRE"
+  },
+  {
+    "track": "surface (ft. Caspian)",
+    "artist": "San Holo"
+  },
+  {
+    "track": "Never Gonna Leave (DNMO Remix)",
+    "artist": "ARYAY"
+  },
+  {
+    "track": "Be Together (feat. Wild Belle) (BAMBOU Remix)",
+    "artist": "Major Lazer"
+  },
+  {
+    "track": "Red Light Green Light",
+    "artist": "Omar LinX"
+  },
+  {
+    "track": "The Great Divide (Seven Lions Remix)",
+    "artist": "Velvetine"
+  },
+  {
+    "track": "Rattle (Original Mix)",
+    "artist": "Bingo Players"
+  },
+  {
+    "track": "Tomorrow Comes Today",
+    "artist": "Gorillaz"
+  },
+  {
+    "track": "Adieu (Radio Edit)",
+    "artist": "Tchami"
+  },
+  {
+    "track": "Depth Charge",
+    "artist": "Flume"
+  },
+  {
+    "track": "Carry Me Away",
+    "artist": "Rootkit"
+  },
+  {
+    "track": "Figure A (NASAYA Remix)",
+    "artist": "Tim Atlas"
+  },
+  {
+    "track": "Do I Wanna Know?",
+    "artist": "Arctic Monkeys"
+  },
+  {
+    "track": "King",
+    "artist": "GRADES"
+  },
+  {
+    "track": "Monster feat. Example (Camo & Krooked Remix)",
+    "artist": "Professor Green"
+  },
+  {
+    "track": "Silk",
+    "artist": "Quiet Bison"
+  },
+  {
+    "track": "Angels",
+    "artist": "Uppermost"
+  },
+  {
+    "track": "Ain't Deep Enough",
+    "artist": "Autograf feat. Jared Lee"
+  },
+  {
+    "track": "Natural Light (2019 Worlds Live Edit)",
+    "artist": "Porter Robinson"
+  },
+  {
+    "track": "Ghost Voices (Hex Cougar Flip)",
+    "artist": "Virtual Self"
+  },
+  {
+    "track": "I Remember (Zathlute Remix)",
+    "artist": "Deadmau5 & Kaskade"
+  },
+  {
+    "track": "The Calling",
+    "artist": "Eelke Kleijn"
+  },
+  {
+    "track": "Summer's Gone",
+    "artist": "NoMBe x Thutmose"
+  },
+  {
+    "track": "Love Lies (Louis The Child Remix)",
+    "artist": "Khalid & Normani"
+  },
+  {
+    "track": "Move Higher",
+    "artist": "Sub Focus"
+  },
+  {
+    "track": "Never Lost",
+    "artist": "Amtrac"
+  },
+  {
+    "track": "With You",
+    "artist": "Haywyre"
+  },
+  {
+    "track": "Need To Feel Loved (Adam K & Soha Vocal Mix)",
+    "artist": "Reflekt"
+  },
+  {
+    "track": "Digital Sea",
+    "artist": "Thrice"
+  },
+  {
+    "track": "Atacama",
+    "artist": "Oliver Smith"
+  },
+  {
+    "track": "Language (Ekali & QUIX Tribute)",
+    "artist": "Porter Robinson"
+  },
+  {
+    "track": "The Long Road Ahead",
+    "artist": "Bit Funk"
+  },
+  {
+    "track": "YDU (Pluto Remix)",
+    "artist": "Opia"
+  },
+  {
+    "track": "Agatha",
+    "artist": "Hex Cougar"
+  },
+  {
+    "track": "Episode (Dub Mix) [INSTRUMENTAL]",
+    "artist": "Autograf"
+  },
+  {
+    "track": "always on my mind (ft. James Vincent McMorrow & Yvette Young)",
+    "artist": "San Holo"
+  },
+  {
+    "track": "Be Together (feat. Wild Belle) (Vanic Remix)",
+    "artist": "Major Lazer"
+  },
+  {
+    "track": "Colorblind ft. Tove Lo (Motez Remix)",
+    "artist": "Karma Fields"
+  },
+  {
+    "track": "Feels (Jai Wolf Remix)",
+    "artist": "Kiiara"
+  },
+  {
+    "track": "Getting Away (feat. Mack)",
+    "artist": "Vindata"
+  },
+  {
+    "track": "Strung Out",
+    "artist": "Rootkit"
+  },
+  {
+    "track": "Slide (feat. Frank Ocean & Migos)",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Gold Dust (Flux Pavilion Remix)",
+    "artist": "DJ Fresh"
+  },
+  {
+    "track": "Promises (Ft. Sub Focus)",
+    "artist": "Nero"
+  },
+  {
+    "track": "Harborside (Unreleased)",
+    "artist": "Porter Robinson"
+  },
+  {
+    "track": "100% In The Bitch (Original Mix)",
+    "artist": "Porter Robinson"
+  },
+  {
+    "track": "Say Things (Crankdat Re-Crank)",
+    "artist": "graves & Coolights"
+  },
+  {
+    "track": "2002 (KREAM Remix)",
+    "artist": "Anne Marie"
+  },
+  {
+    "track": "Different",
+    "artist": "Uppermost"
+  },
+  {
+    "track": "Cola (Robin Schulz Remix)",
+    "artist": "Camelphat & Elderbrook"
+  },
+  {
+    "track": "Stardust (ft. Twin Shadow)",
+    "artist": "Zeds Dead"
+  },
+  {
+    "track": "Discipline",
+    "artist": "Club cheval"
+  },
+  {
+    "track": "Eon Break (Nick Gunner Remix)",
+    "artist": "Virtual Self"
+  },
+  {
+    "track": "Pumpin Blood (The Chainsmokers Remix)",
+    "artist": "NONONO"
+  },
+  {
+    "track": "The Veldt (8 Minute Edit)",
+    "artist": "Deadmau5 feat. Chris James"
+  },
+  {
+    "track": "Places (Icarus Remix) ft. Ina Wroldsen",
+    "artist": "Martin Solveig"
+  },
+  {
+    "track": "Nexus 6 (Original Mix)",
+    "artist": "Andrew Bayer"
+  },
+  {
+    "track": "Rainer",
+    "artist": "RL Grime"
+  },
+  {
+    "track": "Doublespeak",
+    "artist": "Thrice"
+  },
+  {
+    "track": "Revolution (Unlike Pluto Remix)",
+    "artist": "Diplo"
+  },
+  {
+    "track": "Next To Me (Grum Remix)",
+    "artist": "Otto Knows"
+  },
+  {
+    "track": "Go Deep (Zeds Dead Remix)",
+    "artist": null
+  },
+  {
+    "track": "TRNDSTTR (Lucian Remix)",
+    "artist": "Black Coast"
+  },
+  {
+    "track": "Riot Van",
+    "artist": "Arctic Monkeys"
+  },
+  {
+    "track": "Get Free (Ft. Amber Coffman) (Andy C Remix)",
+    "artist": "Major Lazer"
+  },
+  {
+    "track": "Is It Love",
+    "artist": "3LAU feat. Yeah Boy"
+  },
+  {
+    "track": "Smiling",
+    "artist": "EASTGHOST"
+  },
+  {
+    "track": "So High",
+    "artist": "Wateva"
+  },
+  {
+    "track": "I See Fire (Kygo Remix)",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "track": "Lights Go Down",
+    "artist": "Zeds Dead & Jauz"
+  },
+  {
+    "track": "Another Kind of Green",
+    "artist": "John Mayer Trio"
+  },
+  {
+    "track": "Life In Grey",
+    "artist": "Point Point"
+  },
+  {
+    "track": "6 - Bygones Melt Light it Up Dm 100",
+    "artist": "Adam Wiraszka"
+  },
+  {
+    "track": "Closer (Ft. Halsey)",
+    "artist": "The Chainsmokers"
+  },
+  {
+    "track": "Youth (Adventure Club Remix)",
+    "artist": "Foxes"
+  },
+  {
+    "track": "Love & War",
+    "artist": "Wolfgang Gartner"
+  },
+  {
+    "track": "Feel The Same (EDX Remix)",
+    "artist": "Lika Morgan"
+  },
+  {
+    "track": "Pyramid Scheme (Club Mix)",
+    "artist": "Mat Zo"
+  },
+  {
+    "track": "Don't Say",
+    "artist": "Eli & Fur"
+  },
+  {
+    "track": "So Wrong",
+    "artist": "Illenium"
+  },
+  {
+    "track": "Space Bound",
+    "artist": "Eminem"
+  },
+  {
+    "track": "Montreal (feat. Kimbra) [Official Audio]",
+    "artist": "What So Not"
+  },
+  {
+    "track": "Every Day (Original Mix)",
+    "artist": "Eric Prydz"
+  },
+  {
+    "track": "THIS (Original Mix)",
+    "artist": "Sander van Doorn & Oliver Heldens"
+  },
+  {
+    "track": "Losing It (Odd Mob Evil Edit)",
+    "artist": "Fisher"
+  },
+  {
+    "track": "Reachin' (Original Mix)",
+    "artist": "Cristoph"
+  },
+  {
+    "track": "Lone Digger",
+    "artist": "Caravan Palace"
+  },
+  {
+    "track": "La Ciudad (Extended Mix)",
+    "artist": "ODESZA"
+  },
+  {
+    "track": "As Crazy As It Is (Ft. A-Trak & Keznamdi)",
+    "artist": "ZHU"
+  },
+  {
+    "track": "No Place (Will Clarke Remix)",
+    "artist": "R\u00c3\u0153F\u00c3\u0153S DU SOL "
+  },
+  {
+    "track": "1995 (JDG Remix)",
+    "artist": "Emmit Fenn"
+  },
+  {
+    "track": "Sway (The Chainsmokers Remix)",
+    "artist": "Anna of the North"
+  },
+  {
+    "track": "Summer",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Modest Life (Hermitude Remix)",
+    "artist": "R\u00c3\u0153F\u00c3\u0153S DU SOL "
+  },
+  {
+    "track": "17",
+    "artist": "MK"
+  },
+  {
+    "track": "Stereo Love (Ft. Vika Jigulina)",
+    "artist": "Edward Maya"
+  },
+  {
+    "track": "Strobe (Opae Remix)",
+    "artist": "Deadmau5"
+  },
+  {
+    "track": "Midnight City (eSQUIRE Remix)",
+    "artist": "M83"
+  },
+  {
+    "track": "gold",
+    "artist": "EDEN"
+  },
+  {
+    "track": "Whip Slap",
+    "artist": "Dimension"
+  },
+  {
+    "track": "The Sky is Crying",
+    "artist": "Gary B.B. Coleman"
+  },
+  {
+    "track": "Self Love",
+    "artist": "San Holo"
+  },
+  {
+    "track": "Vultures",
+    "artist": "Lido"
+  },
+  {
+    "track": "Unholy (Feat. Bobby Saint)",
+    "artist": "Wolfgang Gartner"
+  },
+  {
+    "track": "It's A Memory ft. Elohim, Mansions On The Moon (Amtrac Remix)",
+    "artist": "Fred Falke"
+  },
+  {
+    "track": "Don't Let Me Down (Illenium Remix)",
+    "artist": "The Chainsmokers"
+  },
+  {
+    "track": "Poison For Lovers",
+    "artist": "Arty"
+  },
+  {
+    "track": "Hey Now (Arty Remix)",
+    "artist": "London Grammar"
+  },
+  {
+    "track": "Sick Sad Little World",
+    "artist": "Incubus"
+  },
+  {
+    "track": "The Sky (Original Mix)",
+    "artist": "Mat Zo Feat. Linnea Schossow"
+  },
+  {
+    "track": "7 - Eddie Reflekt Stay AC Slater (mixed) Gm 123",
+    "artist": "Adam Wiraszka"
+  },
+  {
+    "track": "Ember",
+    "artist": "Camo & Krooked"
+  },
+  {
+    "track": "Julian (The Chainsmokers Remix)",
+    "artist": "Say Lou Lou"
+  },
+  {
+    "track": "Let You Go",
+    "artist": "Enjoii"
+  },
+  {
+    "track": "Voice Of Silence",
+    "artist": "Cristoph"
+  },
+  {
+    "track": "Once Upon A Time (OSKAR Remix)",
+    "artist": "Carl Kennedy feat. Cheyenne"
+  },
+  {
+    "track": "Part 13 - no place lights untrue",
+    "artist": null
+  },
+  {
+    "track": "The Future (ft. James Vincent McMorrow)",
+    "artist": "San Holo"
+  },
+  {
+    "track": "part 3 - reflekt eddie tchami missing",
+    "artist": null
+  },
+  {
+    "track": "Liberate",
+    "artist": "Eric Prydz"
+  },
+  {
+    "track": "Working For It",
+    "artist": "ZHU & Skrillex & THEY."
+  },
+  {
+    "track": "Honest (Rootkit Remix)",
+    "artist": "The Chainsmokers"
+  },
+  {
+    "track": "Walk This Way (KANT Remix)",
+    "artist": "MO"
+  },
+  {
+    "track": "Sweet Nothing ft. Florence Welch",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Strobe",
+    "artist": "Deadmau5"
+  },
+  {
+    "track": "Cool You Off (Original Mix)",
+    "artist": "EDX"
+  },
+  {
+    "track": "Losing My Way",
+    "artist": "Fkj & Tom Misch"
+  },
+  {
+    "track": "Send The Pain On",
+    "artist": "Chrome Sparks"
+  },
+  {
+    "track": "Honesty",
+    "artist": "Camo & Krooked"
+  },
+  {
+    "track": "Break Down The Walls (Yacht Club. Remix)",
+    "artist": "Vara"
+  },
+  {
+    "track": "Using (Meduza Remix)",
+    "artist": "Ritual"
+  },
+  {
+    "track": "Phoenix",
+    "artist": "Funkin Matt"
+  },
+  {
+    "track": "PUSH",
+    "artist": "LICK"
+  },
+  {
+    "track": "drugs",
+    "artist": "EDEN"
+  },
+  {
+    "track": "Circus Freaks feat. Jim Jones feat. Cam'ron (Extended Mix)",
+    "artist": "Jim Jones, Cam'ron, Wolfgang Gartner"
+  },
+  {
+    "track": "Running Away",
+    "artist": "Icarus"
+  },
+  {
+    "track": "Tennis Court (Flume Remix)",
+    "artist": "Lorde"
+  },
+  {
+    "track": "Paris (Vincent Remix)",
+    "artist": "The Chainsmokers"
+  },
+  {
+    "track": "Infinite",
+    "artist": "Notaker"
+  },
+  {
+    "track": "Test & Recognise (Flume Re-Work)",
+    "artist": "Seekae"
+  },
+  {
+    "track": "8 - Rose Garden Missing Innerbloom (almost done) 123",
+    "artist": "Adam Wiraszka"
+  },
+  {
+    "track": "Red Lips ft. Sam Bruno (k?d Remix)",
+    "artist": "GTA"
+  },
+  {
+    "track": "Divinity",
+    "artist": "Porter Robinson"
+  },
+  {
+    "track": "Sleepless (Radio Edit)",
+    "artist": "Cazzette feat. The High"
+  },
+  {
+    "track": "Gravel Pit (Flume Remix)",
+    "artist": "Matt Miller x Kilter"
+  },
+  {
+    "track": "Worlds Away",
+    "artist": "skeler."
+  },
+  {
+    "track": "Opus",
+    "artist": "Eric Prydz"
+  },
+  {
+    "track": "Heavyweight",
+    "artist": "Infected Mushroom"
+  },
+  {
+    "track": "Rockstar",
+    "artist": "Jerry Folk"
+  },
+  {
+    "track": "Thinking About You (Ft. Ayah Marah)",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Roadkill (Rework Edit)",
+    "artist": "EDX"
+  },
+  {
+    "track": "Make Luv",
+    "artist": "Jay Pryor"
+  },
+  {
+    "track": "Broken Bones (Radio Mix)",
+    "artist": "Love Inc."
+  },
+  {
+    "track": "Gravity",
+    "artist": "John Mayer Trio"
+  },
+  {
+    "track": "Part 4 - adieu u enamour rufus",
+    "artist": null
+  },
+  {
+    "track": "Part 11 - tidal wave shrine in rio",
+    "artist": null
+  },
+  {
+    "track": "Friend (Hard Times)",
+    "artist": "Galantis"
+  },
+  {
+    "track": "Still Think",
+    "artist": "Chrome Sparks"
+  },
+  {
+    "track": "Icarus (feat. Hugh Hardie)",
+    "artist": "Logistics"
+  },
+  {
+    "track": "Come Back To You",
+    "artist": "Crooked Colours"
+  },
+  {
+    "track": "Knee Socks",
+    "artist": "Arctic Monkeys"
+  },
+  {
+    "track": "Finale",
+    "artist": "Madeon"
+  },
+  {
+    "track": "Right Here (Tom Budin Remix)",
+    "artist": "Loui PL"
+  },
+  {
+    "track": "Way With You (Prod. Zeds Dead)",
+    "artist": "Omar LinX"
+  },
+  {
+    "track": "Endorphins (Sub Focus vs. Fred V & Grafix Remix)",
+    "artist": "Sub Focus"
+  },
+  {
+    "track": "Difficult To Love",
+    "artist": "Elderbrook"
+  },
+  {
+    "track": "Blame",
+    "artist": "Ekali x ZHU"
+  },
+  {
+    "track": "Count On Me (Ft. Moko)",
+    "artist": "Chase & Status"
+  },
+  {
+    "track": "Sleepless Club (WEKEED Bootleg)",
+    "artist": "Lorde vs Flume"
+  },
+  {
+    "track": "Roses ft. ROZES",
+    "artist": "The Chainsmokers"
+  },
+  {
+    "track": "Love Blind (Original '4AM' Mix)",
+    "artist": "Matt Zanardo"
+  },
+  {
+    "track": "1 - Intro - Zhu Kaskade Soulji Lotus (mixed) C# 123",
+    "artist": "Adam Wiraszka"
+  },
+  {
+    "track": "Seeya (Feat. Colleen D'Agostino) [Radio Edit]",
+    "artist": "Deadmau5"
+  },
+  {
+    "track": "Tribe (ft. Cam Nacson)",
+    "artist": "Yeah Nah"
+  },
+  {
+    "track": "I Know (Blue Mora vs Pierce Fulton Remix)",
+    "artist": "Pierce Fulton"
+  },
+  {
+    "track": "New Scene",
+    "artist": "Felix Cartal ft. Ofelia"
+  },
+  {
+    "track": "Exodus",
+    "artist": "Kayoh"
+  },
+  {
+    "track": "Take U There (feat. Kiesza) (Zeds Dead Remix)",
+    "artist": "Jack U"
+  },
+  {
+    "track": "Flicker (Live Edit Remake)",
+    "artist": "Porter Robinson"
+  },
+  {
+    "track": "All Night",
+    "artist": "Camo & Krooked"
+  },
+  {
+    "track": "Want You (Extended Mix)",
+    "artist": "EDX"
+  },
+  {
+    "track": "Y Don't U",
+    "artist": "Going Deeper & Deep Matter"
+  },
+  {
+    "track": "Peanut Butter Jelly",
+    "artist": "Galantis"
+  },
+  {
+    "track": "Moonraker",
+    "artist": "Chrome Sparks"
+  },
+  {
+    "track": "Gas Pedal (Motez Edit)",
+    "artist": "Sage The Gemini"
+  },
+  {
+    "track": "Part 12 - thrill out the blue",
+    "artist": null
+  },
+  {
+    "track": "Lies (Zeds Dead Remix)",
+    "artist": "Marina and the Diamonds"
+  },
+  {
+    "track": "We Got It (ft. Rothwell) (S.P.Y Remix)",
+    "artist": "Metrik"
+  },
+  {
+    "track": "I've Gotta Know (feat. Jennifer Hartswick) [TRAILS Remix]",
+    "artist": "Big Gigantic"
+  },
+  {
+    "track": "Wait Until Tomorrow",
+    "artist": "John Mayer Trio"
+  },
+  {
+    "track": "Part 5 - missing different innerbloom",
+    "artist": null
+  },
+  {
+    "track": "Get Over",
+    "artist": "Wild Culture"
+  },
+  {
+    "track": "Big (Oliver Remix)",
+    "artist": "Sneaky Sound System"
+  },
+  {
+    "track": "Sundream",
+    "artist": "R\u00c3\u0153F\u00c3\u0153S DU SOL "
+  },
+  {
+    "track": "Long Road To Hell",
+    "artist": "Avicii"
+  },
+  {
+    "track": "Imperium (Dillon Francis Remix)",
+    "artist": "Madeon"
+  },
+  {
+    "track": "Sad Story",
+    "artist": "Merk & Kremont"
+  },
+  {
+    "track": "Feel Good Inc.",
+    "artist": "Gorillaz"
+  },
+  {
+    "track": "Creation ft. Vok",
+    "artist": "Seven Lions"
+  },
+  {
+    "track": "Feel My Needs (Gorgon City Remix)",
+    "artist": "Weiss"
+  },
+  {
+    "track": "Dark Red",
+    "artist": "DEAD BATTERY"
+  },
+  {
+    "track": "Gold (Flume Re-Work)",
+    "artist": "Chet Faker"
+  },
+  {
+    "track": "New Morning",
+    "artist": "Monolink & Acid Pauli"
+  },
+  {
+    "track": "Lies (Doctor P Remix)",
+    "artist": "Fenech-Soler"
+  },
+  {
+    "track": "You and Me (Original Mix)",
+    "artist": "Special Features"
+  },
+  {
+    "track": "Fresh Static Snow",
+    "artist": "Porter Robinson"
+  },
+  {
+    "track": "Lights Down Low (Not Your Dope remix)",
+    "artist": "MAX"
+  },
+  {
+    "track": "Moving Away",
+    "artist": "Jade Blue"
+  },
+  {
+    "track": "Do You",
+    "artist": "TroyBoi"
+  },
+  {
+    "track": "Silhouettes (Nolan van Lith Remix)",
+    "artist": "Avicii"
+  },
+  {
+    "track": "Lost in Your Love",
+    "artist": "Redlight"
+  },
+  {
+    "track": "Falls (ft. Sasha Sloan) (Golden Features Remix)",
+    "artist": "ODESZA"
+  },
+  {
+    "track": "California (Chris Lake & Matroda Remix)",
+    "artist": "SNBRN"
+  },
+  {
+    "track": "Big City Life (Mindsight Remix)",
+    "artist": "Mattafix"
+  },
+  {
+    "track": "Insane (TRAILS Remix)",
+    "artist": "Flume"
+  },
+  {
+    "track": "Symphony (Ft. Charlotte OC)",
+    "artist": "Zeds Dead"
+  },
+  {
+    "track": "Look Around",
+    "artist": "Red Hot Chili Peppers"
+  },
+  {
+    "track": "My Life",
+    "artist": "ZHU & Tame Impala"
+  },
+  {
+    "track": "Drop It",
+    "artist": "WOLFE"
+  },
+  {
+    "track": "Trailblazer",
+    "artist": "Nora En Pure"
+  },
+  {
+    "track": "Gods Plan (Thoreau Trap Remix)",
+    "artist": "Drake"
+  },
+  {
+    "track": "FML (Vanic Remix)",
+    "artist": "K.Flay"
+  },
+  {
+    "track": "Electrify (Billboard Remix)",
+    "artist": "Oliver"
+  },
+  {
+    "track": "Treat You Better",
+    "artist": "R\u00c3\u0153F\u00c3\u0153S DU SOL "
+  },
+  {
+    "track": "Basscone",
+    "artist": "Redlight"
+  },
+  {
+    "track": "Meraki",
+    "artist": "Cormak"
+  },
+  {
+    "track": "Zimbabwe (Flume Remix)",
+    "artist": "New Navy"
+  },
+  {
+    "track": "Break The Fall (Gemini Remix)",
+    "artist": "Laura Welsh"
+  },
+  {
+    "track": "The Rain",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "This Song Is Not About A Girl",
+    "artist": "Flume & Chet Faker"
+  },
+  {
+    "track": "UNTRUE",
+    "artist": "Tchami"
+  },
+  {
+    "track": "Miami Vibe (Omnia Remix)",
+    "artist": "Monogato"
+  },
+  {
+    "track": "Hold Up (feat. Rromarin)",
+    "artist": "TRAILS"
+  },
+  {
+    "track": "We Could Be Kings (feat. Tzar)",
+    "artist": "Zeds Dead x DNMO"
+  },
+  {
+    "track": "Memphis",
+    "artist": "PL\u00c3\u0153M"
+  },
+  {
+    "track": "3. Behavioral Evolution II",
+    "artist": "Robert Sapolsky Stanford Lectures "
+  },
+  {
+    "track": "Still Want U (Costa D Remix)",
+    "artist": "ZHU & Karnaval Blues"
+  },
+  {
+    "track": "Hang Up Your Hang Ups (CamelPhat Remix)",
+    "artist": "Paul Woolford"
+  },
+  {
+    "track": "Breathe feat. Jem Cooke (Original Mix)",
+    "artist": "CamelPhat & Cristoph"
+  },
+  {
+    "track": "Static Theory",
+    "artist": "Wax Motif"
+  },
+  {
+    "track": "Lithium",
+    "artist": "Odd Mob"
+  },
+  {
+    "track": "Hurting (ft. AlunaGeorge)",
+    "artist": "SG Lewis"
+  },
+  {
+    "track": "We Were Young (DROELOE Remix)",
+    "artist": "Petit Biscuit"
+  },
+  {
+    "track": "Silhouettes (Original Vocal Mix)",
+    "artist": "Avicii"
+  },
+  {
+    "track": "Don't Take It Away",
+    "artist": "Soundprank"
+  },
+  {
+    "track": "Meet Me At The Corner",
+    "artist": "Red Hot Chili Peppers"
+  },
+  {
+    "track": "Innocence vs Crush vs Untrue Mashup",
+    "artist": null
+  },
+  {
+    "track": "A Moment Apart",
+    "artist": "ODESZA"
+  },
+  {
+    "track": "Stranger Things (What So Not Remix)",
+    "artist": "What So Not Remix"
+  },
+  {
+    "track": "Insane feat. Moon Holiday",
+    "artist": "Flume"
+  },
+  {
+    "track": "All I Need (Nebbra Remix)",
+    "artist": "Lemaitre"
+  },
+  {
+    "track": "Inertia (ft. Habstrakt)",
+    "artist": "Culprate"
+  },
+  {
+    "track": "Nightcall (Club Refix)",
+    "artist": "KANT"
+  },
+  {
+    "track": "Red Sky (Original Mix)",
+    "artist": "Moon Boots"
+  },
+  {
+    "track": "Touched",
+    "artist": "What So Not"
+  },
+  {
+    "track": "Aftershock (Odd Mob Remix)",
+    "artist": "NGHTMRE x Boombox Cartel"
+  },
+  {
+    "track": "More & More ft. Karen Harding (Kove Remix)",
+    "artist": "Tom Zanetti"
+  },
+  {
+    "track": "Phantom Pt. II (Midnight Kids Remix)",
+    "artist": "Justice"
+  },
+  {
+    "track": "The Saint",
+    "artist": "Conro"
+  },
+  {
+    "track": "Breathe Again",
+    "artist": "Couros"
+  },
+  {
+    "track": "4. Molecular Genetics I",
+    "artist": "Robert Sapolsky Stanford Lectures "
+  },
+  {
+    "track": "All I've Got",
+    "artist": "R\u00c3\u0153F\u00c3\u0153S DU SOL "
+  },
+  {
+    "track": "Slow Down (Ft. Jenna Pemkowski)",
+    "artist": "Zeds Dead"
+  },
+  {
+    "track": "DR\u00c3\u0153G (feat. Emie)",
+    "artist": "Lucky Luke"
+  },
+  {
+    "track": "Kaleo (GLW Remix)",
+    "artist": "Way Down We Go"
+  },
+  {
+    "track": "Light It Up (feat. TOKiMONSTA)",
+    "artist": "ZHU"
+  },
+  {
+    "track": "Shades (ft. Donnie Sloan & Ricky Ducati)",
+    "artist": "Tchami"
+  },
+  {
+    "track": "Cut Me Out (feat. Turin Brakes)",
+    "artist": "Flux Pavilion"
+  },
+  {
+    "track": "Lung",
+    "artist": "Vancouver Sleep Clinic"
+  },
+  {
+    "track": "Fly Free (interlude)",
+    "artist": "Taska Black"
+  },
+  {
+    "track": "My Friends",
+    "artist": "Red Hot Chili Peppers"
+  },
+  {
+    "track": "Fragile (Besnine Remix)",
+    "artist": "Tech Nine ft. Kendrick Lamar"
+  },
+  {
+    "track": "Let Stars Fall",
+    "artist": "Last Island"
+  },
+  {
+    "track": "Formula",
+    "artist": "RL Grime & Juelz"
+  },
+  {
+    "track": "Radar (feat. HONNE)",
+    "artist": "Whethan"
+  },
+  {
+    "track": "Innocence vs Crush vs Untrue Mashup2",
+    "artist": null
+  },
+  {
+    "track": "Three Million (Your Love Is So Amazing)",
+    "artist": "Avicii ft Negin"
+  },
+  {
+    "track": "Sun Sun Sun (Original Mix)",
+    "artist": "SPADA"
+  },
+  {
+    "track": "Slumber ft. Kite",
+    "artist": "Odd Mob"
+  },
+  {
+    "track": "Maybes (feat. Japanese Breakfast)",
+    "artist": "Giraffage"
+  },
+  {
+    "track": "Lick The Rainbow (Original Mix)",
+    "artist": "Mord Fustang"
+  },
+  {
+    "track": "Kurupt (Original Mix)",
+    "artist": "Tchami x Malaa"
+  },
+  {
+    "track": "BlueShift",
+    "artist": "Lemaitre"
+  },
+  {
+    "track": "Hello World",
+    "artist": "Nhato"
+  },
+  {
+    "track": "1. Introduction to Human Behavioral Biology",
+    "artist": "Robert Sapolsky Stanford Lectures "
+  },
+  {
+    "track": "Impulse",
+    "artist": "Haywyre"
+  },
+  {
+    "track": "Numb & Getting Colder (feat. Ku-ka)",
+    "artist": "Flume"
+  },
+  {
+    "track": "4AM (Adam K & Soha Remix)",
+    "artist": "Kaskade"
+  },
+  {
+    "track": "Daydreamer (Ft. Example) (Dillon Francis Remix)",
+    "artist": "Flux Pavilion"
+  },
+  {
+    "track": "Ice",
+    "artist": "Pablo Nouvelle feat. Kylan Road"
+  },
+  {
+    "track": "Color Blind (Ft. Lil Xan)",
+    "artist": "Diplo"
+  },
+  {
+    "track": "Crash Land (Rootkit Remix)",
+    "artist": "Crash Land"
+  },
+  {
+    "track": "Embody",
+    "artist": "Enamour"
+  },
+  {
+    "track": "Pressure ",
+    "artist": "RL Grime"
+  },
+  {
+    "track": "Blame [Hunter Siegel Remix]",
+    "artist": "Ekali & Zhu"
+  },
+  {
+    "track": "Another Life",
+    "artist": "R\u00c3\u0153F\u00c3\u0153S DU SOL "
+  },
+  {
+    "track": "Zeal",
+    "artist": "Tchami"
+  },
+  {
+    "track": "Funky Sensation (Extended Mix)",
+    "artist": "Disclosure feat. Gwen McCrae"
+  },
+  {
+    "track": "No Fun (Golden Features Remix)",
+    "artist": "The Presets"
+  },
+  {
+    "track": "Prove Me Wrong",
+    "artist": "Yoe Mase"
+  },
+  {
+    "track": "Lift You Up",
+    "artist": "Zeds Dead x Delta Heavy"
+  },
+  {
+    "track": "The East",
+    "artist": "TWO LANES"
+  },
+  {
+    "track": "Hands Up (Feat. Leo Napier) (AHEE Remix)",
+    "artist": "The Funk Hunters"
+  },
+  {
+    "track": "Otherside",
+    "artist": "Red Hot Chili Peppers"
+  },
+  {
+    "track": "Dream Dream Dream",
+    "artist": "Madeon"
+  },
+  {
+    "track": "Redwood",
+    "artist": "Speaker of the House"
+  },
+  {
+    "track": "Some Chords",
+    "artist": "Deadmau5"
+  },
+  {
+    "track": "In The Air (Feat. Angela McCluskey) ",
+    "artist": "Morgan Page "
+  },
+  {
+    "track": "Maybes (feat. Japanese Breakfast) (RAC Mix)",
+    "artist": "Giraffage"
+  },
+  {
+    "track": "2. Behavioral Evolution",
+    "artist": "Robert Sapolsky Stanford Lectures "
+  },
+  {
+    "track": "nowhere",
+    "artist": "josh pan & X&G"
+  },
+  {
+    "track": "Superlove (Original Mix)",
+    "artist": "Avicii vs. Lenny Kravitz"
+  },
+  {
+    "track": "Continuum",
+    "artist": "Lemaitre"
+  },
+  {
+    "track": "Teenage Crime (Original Mix)",
+    "artist": "Adrian Lux"
+  },
+  {
+    "track": "How Did I Get Here (Extended Version)",
+    "artist": "ODESZA"
+  },
+  {
+    "track": "Warlord",
+    "artist": "What So Not & SLUMBERJACK"
+  },
+  {
+    "track": "I Feel Like I'm Drowning",
+    "artist": "Two Feet"
+  },
+  {
+    "track": "Go F*ck Yourself",
+    "artist": "Nick Talos vs. Two Feet"
+  },
+  {
+    "track": "Freeway (Flux Pavilion & Kill The Noise Remix)",
+    "artist": "Flux Pavilion"
+  },
+  {
+    "track": "Hazy (Live Version)",
+    "artist": "Dabin"
+  },
+  {
+    "track": "Bittersweet Emotion (ft. Josh Tobias)",
+    "artist": "JackLNDN"
+  },
+  {
+    "track": "Atmosphere (Extended Mix)",
+    "artist": "Kaskade"
+  },
+  {
+    "track": "Make A Change",
+    "artist": "Uppermost"
+  },
+  {
+    "track": "No Place",
+    "artist": "R\u00c3\u0153F\u00c3\u0153S DU SOL"
+  },
+  {
+    "track": "Jumanji (Shift K3Y Remix)",
+    "artist": "B Young"
+  },
+  {
+    "track": "Imaginary Air",
+    "artist": "R\u00c3\u0153F\u00c3\u0153S DU SOL"
+  },
+  {
+    "track": "Feels Like Summer",
+    "artist": "Childish Gambino"
+  },
+  {
+    "track": "One More Time (Capital People Remix)",
+    "artist": "Daft Punk"
+  },
+  {
+    "track": "Immune",
+    "artist": "Last Island"
+  },
+  {
+    "track": "On Top (Feat T.Shirt)",
+    "artist": "Flume"
+  },
+  {
+    "track": "Renewal",
+    "artist": "Golden Features"
+  },
+  {
+    "track": "Get Down",
+    "artist": "Wicked City, The Noisy Freaks"
+  },
+  {
+    "track": "Crossfire",
+    "artist": "Stephen"
+  },
+  {
+    "track": "Antigone",
+    "artist": "Habstrakt & Dombresky"
+  },
+  {
+    "track": "Pour Over (Extended Mix)",
+    "artist": "Vintage Culture & Adam K"
+  },
+  {
+    "track": "New York Luau ",
+    "artist": "The Knocks "
+  },
+  {
+    "track": "Fiction (Club Mix)",
+    "artist": "Lemaitre"
+  },
+  {
+    "track": "Cocaine Model",
+    "artist": "ZHU"
+  },
+  {
+    "track": "Holding (Feat. Rad Hatter)",
+    "artist": "Quiet Bison"
+  },
+  {
+    "track": "In The Air ft. Angela M (Original Mix)",
+    "artist": "Mord Fustang"
+  },
+  {
+    "track": "Police Station",
+    "artist": "Red Hot Chili Peppers"
+  },
+  {
+    "track": "Letting People Go (feat. Prinze George) (Diplo Remix)",
+    "artist": "Carnage"
+  },
+  {
+    "track": "4ME",
+    "artist": "Bad Computer"
+  },
+  {
+    "track": "Technikal",
+    "artist": "Dombresky"
+  },
+  {
+    "track": "Gold (Ft. Yuna)",
+    "artist": "Adventure Club"
+  },
+  {
+    "track": "Lessons In Love (feat. Neon Trees)",
+    "artist": "Kaskade"
+  },
+  {
+    "track": "Green & Blue (Andrew Bayer Remix)",
+    "artist": "Neil Davidge"
+  },
+  {
+    "track": "Dazzle (Synchronice Remix)",
+    "artist": "Oh Wonder"
+  },
+  {
+    "track": "Come Home (LTN Remix)",
+    "artist": "Nigel Good"
+  },
+  {
+    "track": "Burns",
+    "artist": "George FitzGerald"
+  },
+  {
+    "track": "I Can't Stop",
+    "artist": "Flux Pavilion"
+  },
+  {
+    "track": "Hazy",
+    "artist": "Dabin"
+  },
+  {
+    "track": "It's You It's Me",
+    "artist": "Kaskade"
+  },
+  {
+    "track": "All Along The Watchtower",
+    "artist": "Jimi Hendrix"
+  },
+  {
+    "track": "Keep Your Secrets In Midnight City",
+    "artist": "Kill Paris"
+  },
+  {
+    "track": "Waiting All Night feat. Ella Eyre (Original Mix)",
+    "artist": "Rudimental"
+  },
+  {
+    "track": "Lotus (Johan Vilborg Remix)",
+    "artist": "Dinka"
+  },
+  {
+    "track": "Kites (Gravitonas)",
+    "artist": "Dada Life"
+  },
+  {
+    "track": "Louder (Feat. Sian Evans) (Flux Pavilion And Doctor P Remix)",
+    "artist": "DJ Fresh"
+  },
+  {
+    "track": "Lost You (feat. Twin Shadow & D'Angelo Lacy)",
+    "artist": "Zeds Dead"
+  },
+  {
+    "track": "Highway",
+    "artist": "Nora Van Elken"
+  },
+  {
+    "track": "Go Ft. Blood Diamonds (Shadient Remix)",
+    "artist": "Grimes"
+  },
+  {
+    "track": "Needed You (feat. Dia Frampton)",
+    "artist": "Illenium"
+  },
+  {
+    "track": "Night Blooming Jasmine (Rodriguez Jr. Remix)",
+    "artist": "Eli & Fur"
+  },
+  {
+    "track": "Don't Let Me Down",
+    "artist": "Tchami"
+  },
+  {
+    "track": "Addicted To You",
+    "artist": "Avicii"
+  },
+  {
+    "track": "I Just Wanna",
+    "artist": "FreeFall"
+  },
+  {
+    "track": "Come With Me",
+    "artist": "Nora En Pure"
+  },
+  {
+    "track": "Part 6 - Slow Dreams Disintegrate",
+    "artist": null
+  },
+  {
+    "track": "Seeya",
+    "artist": "Deadmau5 feat. Colleen D'Agostino"
+  },
+  {
+    "track": "Allein (Eric Prydz)",
+    "artist": "Pryda"
+  },
+  {
+    "track": "night drive",
+    "artist": "f\u00c3\u00b8rget."
+  },
+  {
+    "track": "Gotta Get Away (feat. Chateau)",
+    "artist": "Chocolate Puma"
+  },
+  {
+    "track": "Go Fck Yourself",
+    "artist": "Two Feet"
+  },
+  {
+    "track": "Lines of the Broken (feat. CUT)",
+    "artist": "DROELOE x San Holo"
+  },
+  {
+    "track": "In The Dark (Extended Mix)",
+    "artist": "Vintage Culture & Fancy Inc."
+  },
+  {
+    "track": "Shifted Thoughts (feat. La Mar)",
+    "artist": "Mazde"
+  },
+  {
+    "track": "EZ",
+    "artist": "Mat Zo"
+  },
+  {
+    "track": "Children (Mahalo Remix)",
+    "artist": "Robert Miles"
+  },
+  {
+    "track": "Every Teardrop is a Waterfall (Evan Duffy Piano Cover)",
+    "artist": "Coldplay"
+  },
+  {
+    "track": "Talking",
+    "artist": "Elderbrook"
+  },
+  {
+    "track": "Fireside",
+    "artist": "Arctic Monkeys"
+  },
+  {
+    "track": "When the Sun Goes Down",
+    "artist": "Arctic Monkeys"
+  },
+  {
+    "track": "The Wind Cry's Mary",
+    "artist": "Jimi Hendrix"
+  },
+  {
+    "track": "Red Sky",
+    "artist": "Thrice"
+  },
+  {
+    "track": "Where R U",
+    "artist": "Kill Paris"
+  },
+  {
+    "track": "Netsky Tomorrowland Belgium 2018",
+    "artist": null
+  },
+  {
+    "track": "Revolution (Maor Levi Remix)",
+    "artist": "Diplo"
+  },
+  {
+    "track": "Uruguay (EDX's Dubai Skyline Radio Edit)",
+    "artist": "Nora En Pure & Sons Of Maria"
+  },
+  {
+    "track": "What I Like About You (M-22 Remix)",
+    "artist": "Jonas Blue ft. Theresa Rex"
+  },
+  {
+    "track": "Ill Behaviour",
+    "artist": "Danny Byrd"
+  },
+  {
+    "track": "Go (Muneshine X Khamsin Flip)",
+    "artist": "Grimes"
+  },
+  {
+    "track": "Control (Audio) ft. Jerry Folk",
+    "artist": "Lemaitre"
+  },
+  {
+    "track": "I Remember (Original Extended Mix) (Ft. Kaskade)",
+    "artist": "Deadmau5"
+  },
+  {
+    "track": "Promesses (Pep & Rash Bootleg)",
+    "artist": "Tchami"
+  },
+  {
+    "track": "Ocean Drive",
+    "artist": "Duke Dumont"
+  },
+  {
+    "track": "RULE",
+    "artist": "skeler."
+  },
+  {
+    "track": "Shadows",
+    "artist": "Eric Prydz"
+  },
+  {
+    "track": "Where Are You Now (feat. Bright Lights)",
+    "artist": "Zeds Dead & Dirtyphonics"
+  },
+  {
+    "track": "Game Time (ft. Ninja)",
+    "artist": "3LAU"
+  },
+  {
+    "track": "Came For The Low (Extended Mix)",
+    "artist": "ZHU & partywithray"
+  },
+  {
+    "track": "Sonnentanz (Sun Dont Shine) (feat.Will Heard)",
+    "artist": "Klangkarussell"
+  },
+  {
+    "track": "Coming Over (Ft. James Hersey)",
+    "artist": "Dillon Francis & Kygo"
+  },
+  {
+    "track": "I Wont Stop",
+    "artist": "Low Steppa"
+  },
+  {
+    "track": "Part 7 - phantom bygones dont go",
+    "artist": null
+  },
+  {
+    "track": "There Might Be Coffee and Aural Psynapse (Evan Duffy Piano Cover)",
+    "artist": "Deadmau5"
+  },
+  {
+    "track": "Burn Up (Ft. Katie's Ambition) (Dabin Remix)",
+    "artist": "Rollz"
+  },
+  {
+    "track": "Hear The Music",
+    "artist": "TRU Concept & A-SHO"
+  },
+  {
+    "track": "One Thing (Radio Mix)",
+    "artist": "Me & My Toothbrush"
+  },
+  {
+    "track": "Hurricane",
+    "artist": "Mat Zo"
+  },
+  {
+    "track": "The Weight",
+    "artist": "Thrice"
+  },
+  {
+    "track": "Olifant",
+    "artist": "DNMO"
+  },
+  {
+    "track": "Arabella",
+    "artist": "Arctic Monkeys"
+  },
+  {
+    "track": "Hypnotize",
+    "artist": "Biggie Smalls"
+  },
+  {
+    "track": "The Unknown (feat. FMLYBND)",
+    "artist": "Dirty South"
+  },
+  {
+    "track": "505",
+    "artist": "Arctic Monkeys"
+  },
+  {
+    "track": "The Real Slim Shady",
+    "artist": "Eminem"
+  },
+  {
+    "track": "Altara (Nigel Good Remix)",
+    "artist": "Johan Vilborg"
+  },
+  {
+    "track": "Saturn",
+    "artist": "Kill The Noise, Brillz & Minxx"
+  },
+  {
+    "track": "Heads Will Roll (Yeah Yeah Yeahs)",
+    "artist": "A-Trak"
+  },
+  {
+    "track": "Inside My Love (Redlight Remix)",
+    "artist": "Delilah"
+  },
+  {
+    "track": "Feel So (feat. Fiora)",
+    "artist": "Zeds Dead & Funkin Matt"
+  },
+  {
+    "track": "Save A Little Love",
+    "artist": "Don Diablo"
+  },
+  {
+    "track": "Altara (Andrew Benson Remix)",
+    "artist": "Johan Vilborg"
+  },
+  {
+    "track": "Tiny Cities feat. Beck",
+    "artist": "Flume"
+  },
+  {
+    "track": "Nobody Else",
+    "artist": "Axwell"
+  },
+  {
+    "track": "Mirage The People (Seb Sapet Bootleg)",
+    "artist": "Pryda vs Empire Of The Sun"
+  },
+  {
+    "track": "Untrue (Extended Mix)",
+    "artist": "Tchami"
+  },
+  {
+    "track": "No Prayers",
+    "artist": "Zeds Dead & Omar LinX"
+  },
+  {
+    "track": "GHOST",
+    "artist": "M!NGO X KODIAK"
+  },
+  {
+    "track": "Anywhere (Wh0 Remix)",
+    "artist": "Sigma"
+  },
+  {
+    "track": "Panic Room",
+    "artist": "AuRa & CamelPhat"
+  },
+  {
+    "track": "Death Rattle",
+    "artist": "Blanke & REAPER"
+  },
+  {
+    "track": "The One (High Contrast Remix)",
+    "artist": "Jorja Smith"
+  },
+  {
+    "track": "Summer Days",
+    "artist": "Martin Garrix feat. Macklemore & Patrick Stump of Fall Out Boy"
+  },
+  {
+    "track": "With You (L\u00c3\u00b6Kii Remix)",
+    "artist": "Kaskade, Meghan Trainor"
+  },
+  {
+    "track": "Came For The Low",
+    "artist": "ZHU"
+  },
+  {
+    "track": "You and I (Deadmau5 Remix)",
+    "artist": "Medina"
+  },
+  {
+    "track": "Take Me",
+    "artist": "R\u00c3\u0153F\u00c3\u0153S DU SOL"
+  },
+  {
+    "track": "The Whaler",
+    "artist": "Thrice"
+  },
+  {
+    "track": "Part 8 - where r u divinity",
+    "artist": null
+  },
+  {
+    "track": "As I Live & Breathe",
+    "artist": "EASTGHOST"
+  },
+  {
+    "track": "Fall (Original Mix)",
+    "artist": "Johan Vilborg"
+  },
+  {
+    "track": "Lucid Dreams",
+    "artist": "Mat Zo"
+  },
+  {
+    "track": "I Swear (Dirty South Remix)",
+    "artist": "Dirty South feat. ANIMA!"
+  },
+  {
+    "track": "RIVA (Restart The Game)",
+    "artist": "Klingande feat. Broken Back"
+  },
+  {
+    "track": "Nevermind",
+    "artist": "Foster the People"
+  },
+  {
+    "track": "DARE (ft. Shaun Ryder & Rosie Wilson)",
+    "artist": "Gorillaz"
+  },
+  {
+    "track": "Shrine (Hex Cougar Remix)",
+    "artist": "RL Grime"
+  },
+  {
+    "track": "No One Else (with TELYKast)",
+    "artist": "Kaskade"
+  },
+  {
+    "track": "Juicy",
+    "artist": "Biggie Smalls"
+  },
+  {
+    "track": "Silence ft. Dave Thomas Jr.",
+    "artist": "Don Diablo"
+  },
+  {
+    "track": "GETLOW",
+    "artist": "Jerry Folk"
+  },
+  {
+    "track": "Mardy Bum",
+    "artist": "Arctic Monkeys"
+  },
+  {
+    "track": "Closest Ever",
+    "artist": "GHEIST"
+  },
+  {
+    "track": "Five Hours (Don't Hold Me Back)",
+    "artist": "Deorro ft. DyCy"
+  },
+  {
+    "track": "Take a Chance",
+    "artist": "Zeds Dead & Omar LinX"
+  },
+  {
+    "track": "Fooling Me",
+    "artist": "Jyye"
+  },
+  {
+    "track": "The Buzz (feat. Mataya & Young Tapz)",
+    "artist": "Hermitude"
+  },
+  {
+    "track": "3's & 7's",
+    "artist": "Queens Of The Stone Age"
+  },
+  {
+    "track": "U",
+    "artist": "Grum"
+  },
+  {
+    "track": "Before I Go (AC Slater Remix)",
+    "artist": "GRiZ & Leo Napier"
+  },
+  {
+    "track": "Language (Evan Duffy Piano Cover)",
+    "artist": "Porter Robinson"
+  },
+  {
+    "track": "I Will Find",
+    "artist": "rrotik"
+  },
+  {
+    "track": "Hide (ft. Robinson)",
+    "artist": "Franky Wah"
+  },
+  {
+    "track": "Grapevine (LoKii Edit)",
+    "artist": "Ti\u00c3\u00absto"
+  },
+  {
+    "track": "Thats Why",
+    "artist": "ILLENIUM & GOLDN"
+  },
+  {
+    "track": "You Got To Go (Seven Lions Dubstep Remix)",
+    "artist": "Above & Beyond"
+  },
+  {
+    "track": "Woman",
+    "artist": "Elderbrook"
+  },
+  {
+    "track": "Electric Feel (Justice Remix)",
+    "artist": "MGMT"
+  },
+  {
+    "track": "Missing You ft. Kaleem Taylor",
+    "artist": "Tchami & AC Slater"
+  },
+  {
+    "track": "Neon",
+    "artist": "John Mayer"
+  },
+  {
+    "track": "Rushing Back feat. Vera Blue (ATRIP Remix)",
+    "artist": "Flume"
+  },
+  {
+    "track": "Always This Late (Illenium Remix)",
+    "artist": "ODESZA"
+  },
+  {
+    "track": "Alive (& Thomas Gold Feat. Kate Elsworth)",
+    "artist": "Dirty South"
+  },
+  {
+    "track": "You Were Right",
+    "artist": "R\u00c3\u0153F\u00c3\u0153S DU SOL"
+  },
+  {
+    "track": "EDM Trend Machine",
+    "artist": "Knife Party"
+  },
+  {
+    "track": "Part 9 - freeway fire away",
+    "artist": null
+  },
+  {
+    "track": "We Own The Night (Original Mix)",
+    "artist": "Tiesto & Wolfgang Gartner feat. Luciana"
+  },
+  {
+    "track": "Got Me Thinkin' (Original Mix)",
+    "artist": "Don Diablo & CID"
+  },
+  {
+    "track": "Won't Back Down (ft. P!nk)",
+    "artist": "Eminem"
+  },
+  {
+    "track": "Only For You (Croquet Club Remix)",
+    "artist": "Mat Zo"
+  },
+  {
+    "track": "Funk Bsiide",
+    "artist": "L\u00c3\u00b6Kii"
+  },
+  {
+    "track": "Ultraviolet (High Contrast Remix)",
+    "artist": "Freya Ridings"
+  },
+  {
+    "track": "From the Ritz to the Rubble",
+    "artist": "Arctic Monkeys"
+  },
+  {
+    "track": "Good Life (Without Poetry / Jafar Edit)",
+    "artist": "ZHU"
+  },
+  {
+    "track": "Hyperparadise (GANZ Remix)",
+    "artist": "Hermitude x Flume"
+  },
+  {
+    "track": "Rap God",
+    "artist": "Eminem"
+  },
+  {
+    "track": "Mo Money Mo Problems",
+    "artist": "Biggie Smalls"
+  },
+  {
+    "track": "Karma Police",
+    "artist": "Radiohead"
+  },
+  {
+    "track": "Demons (Original Mix)",
+    "artist": "Zeds Dead"
+  },
+  {
+    "track": "Side Effects (Nolan van Lith Remix) ft. Emily Warren",
+    "artist": "The Chainsmokers"
+  },
+  {
+    "track": "Beautiful Life (R.O. Remix)",
+    "artist": "Lost Frequencies"
+  },
+  {
+    "track": "My Friends Never Die",
+    "artist": "ODESZA"
+  },
+  {
+    "track": "Take U There (Pusher Flip) (Feat. Kiesza)",
+    "artist": "Jack U"
+  },
+  {
+    "track": "Be The One (Netsky Remix)",
+    "artist": "Dua Lipa"
+  },
+  {
+    "track": "Lovebreak (Wild Culture Remix)",
+    "artist": "Milan Euringer vs Tube & Berger"
+  },
+  {
+    "track": "I Could Be Anything (feat. Elohim)",
+    "artist": "The Glitch Mob"
+  },
+  {
+    "track": "Out Of Me",
+    "artist": "Luttrell"
+  },
+  {
+    "track": "Save Me (feat. MKLA)",
+    "artist": "Vintage Culture & Adam K"
+  },
+  {
+    "track": "Jaded",
+    "artist": "EDX"
+  },
+  {
+    "track": "Lay Me Down (Flume Remix)",
+    "artist": "Sam Smith"
+  },
+  {
+    "track": "Circles",
+    "artist": "Yoe Mase"
+  },
+  {
+    "track": "Together",
+    "artist": "Logistics"
+  },
+  {
+    "track": "Say A Prayer For Me (Album Mix)",
+    "artist": "R\u00c3\u0153F\u00c3\u0153S DU SOL "
+  },
+  {
+    "track": "Old Friend",
+    "artist": "Elderbrook"
+  },
+  {
+    "track": "NO GOOD",
+    "artist": "NASAYA"
+  },
+  {
+    "track": "Etc",
+    "artist": "Uppermost"
+  },
+  {
+    "track": "Fangs",
+    "artist": "Ghastly & ALRT"
+  },
+  {
+    "track": "Live This Nightmare (NGHTMRE Remix)",
+    "artist": "The Griswolds"
+  },
+  {
+    "track": "Minimix (93 songs in 5mins)",
+    "artist": "Madeon"
+  },
+  {
+    "track": "U (Evan Duffy Piano Arrangement)",
+    "artist": "Gareth Emery ft. Bo Bruce"
+  },
+  {
+    "track": "Light Years Away",
+    "artist": "Oliver"
+  },
+  {
+    "track": "Backup",
+    "artist": "Topi"
+  },
+  {
+    "track": "Trampoline (Jauz Remix)",
+    "artist": "SHAED"
+  },
+  {
+    "track": "Peach - NASAYA Remix",
+    "artist": "Broods"
+  },
+  {
+    "track": "Another You (Pretty Pink Remix)",
+    "artist": "Armin van Buuren feat. Mr. Probz"
+  },
+  {
+    "track": "Stop and Stare (Gemini Remix)",
+    "artist": "Fenech-Soler"
+  },
+  {
+    "track": "Parachute (CamelPhat Remix)",
+    "artist": "Otto Knows"
+  },
+  {
+    "track": "Keep It Close",
+    "artist": "Seven Lions"
+  },
+  {
+    "track": "Redbone",
+    "artist": "Childish Gambino"
+  },
+  {
+    "track": "Malfunction (Original Mix)",
+    "artist": "Louis La Roch\u00c3\u00a9"
+  },
+  {
+    "track": "Too Original (KREAM Remix)",
+    "artist": "Major Lazer"
+  },
+  {
+    "track": "What You Do (Jade Blue Remix)",
+    "artist": "Mediate"
+  },
+  {
+    "track": "HDLCK",
+    "artist": "BLU J"
+  },
+  {
+    "track": "Enough to Believe (Jamie Jones Remix)",
+    "artist": "Bob Moses"
+  },
+  {
+    "track": "Need to Know",
+    "artist": "JAKE"
+  },
+  {
+    "track": "How Could This Be Wrong",
+    "artist": "The Glitch Mob"
+  },
+  {
+    "track": "Midnight Love",
+    "artist": "Chez Moon"
+  },
+  {
+    "track": "Till Dawn",
+    "artist": "Andy C"
+  },
+  {
+    "track": "A Flume Tribute",
+    "artist": "TRAILS"
+  },
+  {
+    "track": "Bad For Me",
+    "artist": "WHIPPED CREAM"
+  },
+  {
+    "track": "Open End Resource (In My Next Life Mix)",
+    "artist": "Andrew Bayer feat. Alison May"
+  },
+  {
+    "track": "Strobe (Dimension Remix)",
+    "artist": "Deadmau5 "
+  },
+  {
+    "track": "Only Way Out (Ft. Vancouver Sleep Clinic)",
+    "artist": "Madeon"
+  },
+  {
+    "track": "S T A R B O Y (NEUS Remix)",
+    "artist": "The Weeknd"
+  },
+  {
+    "track": "Ghost Voices (Raito Old School Remix)",
+    "artist": "Virtual Self"
+  },
+  {
+    "track": "Be Right Here (ft. GOLDN)",
+    "artist": "Kungs"
+  },
+  {
+    "track": "Rebound (Omnia Remix)",
+    "artist": "Arty & Mat Zo"
+  },
+  {
+    "track": "Fly",
+    "artist": "Uppermost"
+  },
+  {
+    "track": "Fear of Falling Asleep",
+    "artist": "TENDER"
+  },
+  {
+    "track": "Cosmic Love (Seven Lions Remix)",
+    "artist": "Florence + The Machine"
+  },
+  {
+    "track": "Would You Ever Ft. Poo Bear",
+    "artist": "Skrillex"
+  },
+  {
+    "track": "Feel It",
+    "artist": "HGZ"
+  },
+  {
+    "track": "Patterns (feat. Sara Diamond)",
+    "artist": "NASAYA "
+  },
+  {
+    "track": "Ms. Jackson",
+    "artist": "Outkast"
+  },
+  {
+    "track": "Anything Tonight",
+    "artist": "Dance Cult"
+  },
+  {
+    "track": "Electric Heart (feat. Ameria)",
+    "artist": "Anevo"
+  },
+  {
+    "track": "MYB",
+    "artist": "Oliver"
+  },
+  {
+    "track": "Circles",
+    "artist": "Post Malone"
+  },
+  {
+    "track": "Like This",
+    "artist": "Shift K3Y"
+  },
+  {
+    "track": "Another Way",
+    "artist": "Crooked Colours"
+  },
+  {
+    "track": "Tokyo (feat. XIRA) [Extended Mix]",
+    "artist": "3LAU"
+  },
+  {
+    "track": "Step Back (Original Mix)",
+    "artist": "Chocolate Puma feat. Kriss Kriss"
+  },
+  {
+    "track": "Lean On (feat. MO)",
+    "artist": "Major Lazer & DJ Snake"
+  },
+  {
+    "track": "Blue Skies (Flux Pavilion Remix)",
+    "artist": "Jamiroquai"
+  },
+  {
+    "track": "Lately",
+    "artist": "Jade Blue & Frequency"
+  },
+  {
+    "track": "Lullabies (Adventure Club Remix)",
+    "artist": "Yuna"
+  },
+  {
+    "track": "I RMMBR (Original Mix)",
+    "artist": "BLU J"
+  },
+  {
+    "track": "Rebound (Original Mix)",
+    "artist": "Arty & Mat Zo"
+  },
+  {
+    "track": "Would You Just (ft. Yemi Bolatiwa)",
+    "artist": "Diversion"
+  },
+  {
+    "track": "We Are Your Friends (TWO LANES Remix)",
+    "artist": "Justice"
+  },
+  {
+    "track": "All Goes Wrong (Dawn Wall Remix) ft. Tom Grennan",
+    "artist": "Chase & Status"
+  },
+  {
+    "track": "On A Mission",
+    "artist": "Katy B"
+  },
+  {
+    "track": "Anxiety (Original Mix)",
+    "artist": "DJ Hanzel & DREZO"
+  },
+  {
+    "track": "Turn Off The Lights",
+    "artist": "Chris Lake feat Alexis Roberts"
+  },
+  {
+    "track": "Ching Ching",
+    "artist": "Wolfgang Gartner"
+  },
+  {
+    "track": "The Hills (RL Grime Remix)",
+    "artist": "The Weeknd"
+  },
+  {
+    "track": "In For The Kill (Endor Remix) (Jerome Price Edit)",
+    "artist": "La Roux"
+  },
+  {
+    "track": "Six Deep (Original Mix)",
+    "artist": "JDG"
+  },
+  {
+    "track": "Spectrum (Say My Name) (Calvin Harris Remix)",
+    "artist": "Florence & The Machine"
+  },
+  {
+    "track": "Pay No Mind (ft. Passion Pit)",
+    "artist": "Madeon"
+  },
+  {
+    "track": "Futur (Original Mix)",
+    "artist": "Uppermost"
+  },
+  {
+    "track": "Audio (CID Remix)",
+    "artist": "Labrinth Sia & Diplo"
+  },
+  {
+    "track": "Satisfy (Blanke Remix)",
+    "artist": "Nero"
+  },
+  {
+    "track": "Night Is On My Mind (Dillon Francis Remix)",
+    "artist": "Oliver"
+  },
+  {
+    "track": "Roses",
+    "artist": "Outkast"
+  },
+  {
+    "track": "Thinking Bout You",
+    "artist": "Ellis & Nu Aspect"
+  },
+  {
+    "track": "Redbone Guitar Cover",
+    "artist": "Adam Wiraszka"
+  },
+  {
+    "track": "Disintegrate Slowly [1788-L Remix]",
+    "artist": "The Glitch Mob"
+  },
+  {
+    "track": "No More (feat. ZHU)",
+    "artist": "DJ Snake"
+  },
+  {
+    "track": "Notorious (Original Mix) ",
+    "artist": "MALAA"
+  },
+  {
+    "track": "Fire Away (Direct Remix)",
+    "artist": "Skrillex"
+  },
+  {
+    "track": "Say It (Illenium VIP Remix)",
+    "artist": "Flume"
+  },
+  {
+    "track": "Never Go Back",
+    "artist": "Dennis Lloyd"
+  },
+  {
+    "track": "Stranger",
+    "artist": "Chris Lake"
+  },
+  {
+    "track": "Ekali & Elohim - Fairy Tale",
+    "artist": null
+  },
+  {
+    "track": "Circles",
+    "artist": "Couros"
+  },
+  {
+    "track": "Stressed Out (Tchami Remix)",
+    "artist": "A Tribe Called Quest"
+  },
+  {
+    "track": "Higher",
+    "artist": "Jauz & Netsky"
+  },
+  {
+    "track": "Overflow",
+    "artist": "Stray Beast"
+  },
+  {
+    "track": "All Goes Wrong ft. Tom Grennan",
+    "artist": "Chase & Status"
+  },
+  {
+    "track": "Not Giving In (Ft. John Newman & Alex Clare) (Phaeleh Remix)",
+    "artist": "Rudimental"
+  },
+  {
+    "track": "Ecstasy",
+    "artist": "ATB"
+  },
+  {
+    "track": "Eyes On Fire (Zeds Dead Remix)",
+    "artist": "Blue Foundation"
+  },
+  {
+    "track": "I Got 5 On It",
+    "artist": "Luniz"
+  },
+  {
+    "track": "Sleeping With Machines",
+    "artist": "EDDIE"
+  },
+  {
+    "track": "Embrace (Odd Mob Bootleg)",
+    "artist": "NGHTMRE & Carmada"
+  },
+  {
+    "track": "Whats In Your Head",
+    "artist": "Disclosure"
+  },
+  {
+    "track": "No Pressure",
+    "artist": "Odd Mob x Super Silly"
+  },
+  {
+    "track": "IOU (feat. New Haven)",
+    "artist": "JDG"
+  },
+  {
+    "track": "Thousand Colors",
+    "artist": "Uppermost"
+  },
+  {
+    "track": "Moment",
+    "artist": "Haywyre"
+  },
+  {
+    "track": "Move Me",
+    "artist": "Loosid"
+  },
+  {
+    "track": "Helix",
+    "artist": "Flume"
+  },
+  {
+    "track": "Pixel Empire",
+    "artist": "Madeon"
+  },
+  {
+    "track": "Night Is On My Mind",
+    "artist": "Oliver"
+  },
+  {
+    "track": "Summit",
+    "artist": "Skrillex"
+  },
+  {
+    "track": "Give Me A Try (Don Diablo Remix)",
+    "artist": "The Wombats"
+  },
+  {
+    "track": "Stranger (Faux Tales Remix) Ft. Elliphant",
+    "artist": "Peking Duk & Faux Tales"
+  },
+  {
+    "track": "Enter Formless (Machinedrum Remix)",
+    "artist": "The Glitch Mob"
+  },
+  {
+    "track": "Punish My Love",
+    "artist": "Delta Heavy"
+  },
+  {
+    "track": "Nevermind",
+    "artist": "Dennis Lloyd"
+  },
+  {
+    "track": "Your Love (Original Club Mix)",
+    "artist": "Mark Knight"
+  },
+  {
+    "track": "Drip Drip",
+    "artist": "Louis The Child x Whethan"
+  },
+  {
+    "track": "Places - Icarus Remix",
+    "artist": "Martin Solveig"
+  },
+  {
+    "track": "By The River (feat. Jamie N Commons)",
+    "artist": "Klingande"
+  },
+  {
+    "track": "In The Middle",
+    "artist": "Alesso x SUMR CAMP"
+  },
+  {
+    "track": "Stomper",
+    "artist": "Chris Lake & Anna Lunoe"
+  },
+  {
+    "track": "Lies",
+    "artist": "SyENCE"
+  },
+  {
+    "track": "All This",
+    "artist": "Jay Pryor"
+  },
+  {
+    "track": "Need feat. Josh Barry",
+    "artist": "Sonny Fodera"
+  },
+  {
+    "track": "Me & You (Dirtyphonics Remix)",
+    "artist": "Nero"
+  },
+  {
+    "track": "Lick Shot",
+    "artist": "Gorgon City"
+  },
+  {
+    "track": "Pumpkin Eyes (feat. Chaney)",
+    "artist": "Feed Me"
+  },
+  {
+    "track": "Love For You",
+    "artist": "Kove"
+  },
+  {
+    "track": "Obsession",
+    "artist": "ATB"
+  },
+  {
+    "track": "Jammin'",
+    "artist": "Bob Marley"
+  },
+  {
+    "track": "Feels So Good",
+    "artist": "Odd Mob"
+  },
+  {
+    "track": "Firefly feat. Nao (LOWSELF Remix)",
+    "artist": "Mura Masa"
+  },
+  {
+    "track": "Collapse",
+    "artist": "Vancouver Sleep Clinic"
+  },
+  {
+    "track": "Complicated",
+    "artist": "EDDIE"
+  },
+  {
+    "track": "Midnight City (Eric Prydz Private Remix)",
+    "artist": "M83"
+  },
+  {
+    "track": "Visions",
+    "artist": "Uppermost"
+  },
+  {
+    "track": "Hearts Ain't Gonna Lie (Niko The Kid Remix)",
+    "artist": "Arlissa & Jonas Blue"
+  },
+  {
+    "track": "Technicolor",
+    "artist": "Madeon"
+  },
+  {
+    "track": "Pushing On (Tchami Remix)",
+    "artist": "Oliver $ & Jimi Jules"
+  },
+  {
+    "track": "Stranger Things",
+    "artist": "Louis Futon"
+  },
+  {
+    "track": "Worship",
+    "artist": "Golden Features"
+  },
+  {
+    "track": "Make It Bun Dem (Unholy Remix)",
+    "artist": "Skrillex & Damian Jr Gong Marley"
+  },
+  {
+    "track": "One By One (Hunter Siegel Remix)",
+    "artist": "GG Magree"
+  },
+  {
+    "track": "Innerbloom (TWO LANES Remix)",
+    "artist": "R\u00c3\u0153F\u00c3\u0153S DU SOL "
+  },
+  {
+    "track": "With You (feat. Barnaby)",
+    "artist": "Embody"
+  },
+  {
+    "track": "Voices on the Shore",
+    "artist": "Eric Prydz"
+  },
+  {
+    "track": "Runaway (U & I)",
+    "artist": "Galantis"
+  },
+  {
+    "track": "Come Together",
+    "artist": "Camo & Krooked"
+  },
+  {
+    "track": "Never Look Back",
+    "artist": "Jyye"
+  },
+  {
+    "track": "Hysteria",
+    "artist": "Mr FijiWiji & Direct"
+  },
+  {
+    "track": "Waiting Up",
+    "artist": "Hunter Siegel"
+  },
+  {
+    "track": "Gemini ft. George Maple",
+    "artist": "What So Not"
+  },
+  {
+    "track": "High (Bassnectar Remix)",
+    "artist": "Rusko"
+  },
+  {
+    "track": "Pray ft. Kameron Alexander",
+    "artist": "ILLENIUM"
+  },
+  {
+    "track": "High Tide",
+    "artist": "Lemaitre"
+  },
+  {
+    "track": "Road Trippin'",
+    "artist": "Red Hot Chili Peppers"
+  },
+  {
+    "track": "Clubbed To Death (Matrix Soundtrack)",
+    "artist": "Rob Dougan"
+  },
+  {
+    "track": "Save My Life",
+    "artist": "GAB"
+  },
+  {
+    "track": "Say a Prayer For Me (Mazde Remix)",
+    "artist": "R\u00c3\u0153F\u00c3\u0153S"
+  },
+  {
+    "track": "Fresh Static Snow (019 Worlds Live Edit)",
+    "artist": "Porter Robinson"
+  },
+  {
+    "track": "Sincerely",
+    "artist": "Stephen"
+  },
+  {
+    "track": "Cool (Autograf Remix)",
+    "artist": "Alesso"
+  },
+  {
+    "track": "Drowning (Love Thy Brother Remix)",
+    "artist": "BANKS"
+  },
+  {
+    "track": "Confess To Me (Feat. Jessie Ware)",
+    "artist": "Disclosure"
+  },
+  {
+    "track": "Aphasia",
+    "artist": "Mr FijiWiji"
+  },
+  {
+    "track": "Say It (feat. Tove Lo) (Illenium Remix)",
+    "artist": "Flume"
+  },
+  {
+    "track": "My Life (Extended Mix)",
+    "artist": "ZHU Tame Impala"
+  },
+  {
+    "track": "On Your Mind",
+    "artist": "Kaskade"
+  },
+  {
+    "track": "Fire (Blanke Remix)",
+    "artist": "Peking Duk"
+  },
+  {
+    "track": "Stay (feat. Natalie Shay)",
+    "artist": "Grum"
+  },
+  {
+    "track": "Feel It In My Bones (Ft. Tegan and Sara)",
+    "artist": "Ti\u00c3\u00absto"
+  },
+  {
+    "track": "I've Fallen For You",
+    "artist": "Tom Redwood"
+  },
+  {
+    "track": "Let Me Out",
+    "artist": "Gorillaz"
+  },
+  {
+    "track": "Nobody Like You (Sun Soaked Mix)",
+    "artist": "Kaskade"
+  },
+  {
+    "track": "You [Extended Mix]",
+    "artist": "Galantis"
+  },
+  {
+    "track": "You and I",
+    "artist": "Zeds Dead & Omar LinX"
+  },
+  {
+    "track": "You Used To Hold Me",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Talk Is Cheap",
+    "artist": "Chet Faker"
+  },
+  {
+    "track": "R U Mine?",
+    "artist": "Arctic Monkeys"
+  },
+  {
+    "track": "Stepping Stone (feat. Mark Johns)",
+    "artist": "Lemaitre"
+  },
+  {
+    "track": "Forget What You Look Like (ft. Lowell)",
+    "artist": "Netsky"
+  },
+  {
+    "track": "Passion",
+    "artist": "Camo & Krooked"
+  },
+  {
+    "track": "Infinite",
+    "artist": "Eminem"
+  },
+  {
+    "track": "Do You Don't You",
+    "artist": "Haywyre"
+  },
+  {
+    "track": "Go 2",
+    "artist": "Netsky"
+  },
+  {
+    "track": "High You Are (Branchez Remix)",
+    "artist": "What So Not"
+  },
+  {
+    "track": "Nightwalk",
+    "artist": "Spencer Brown"
+  },
+  {
+    "track": "This Bass",
+    "artist": "Ishimaru & Gustavo Koch"
+  },
+  {
+    "track": "I'll Be Pushin On (Carnage & Big Gigantic Edit)",
+    "artist": "Zac Samuel"
+  },
+  {
+    "track": "Embracing Me (Mazde Remix)",
+    "artist": "SAFIA"
+  },
+  {
+    "track": "H E X",
+    "artist": "REZZ x 1788-L"
+  },
+  {
+    "track": "Polygon Dust ft. Lemaitre",
+    "artist": "Porter Robinson"
+  },
+  {
+    "track": "Scar Tissue",
+    "artist": "Red Hot Chili Peppers"
+  },
+  {
+    "track": "Look Right Through (MK Dub III)",
+    "artist": "Storm Queen"
+  },
+  {
+    "track": "Handguns (Dada Life Remix)",
+    "artist": "Alex Gopher"
+  },
+  {
+    "track": "Love Is A Bitch",
+    "artist": "Two Feet"
+  },
+  {
+    "track": "Tom Walker - Now You're Gone ft. Zara Larsson (Jerome Price Remix)",
+    "artist": null
+  },
+  {
+    "track": "Feels (AWAY Remix)",
+    "artist": "Kiiara"
+  },
+  {
+    "track": "Flaws (The Chainsmokers Remix)",
+    "artist": "Bastille"
+  },
+  {
+    "track": "XE3 (Whethan Turn)",
+    "artist": "Mssingno"
+  },
+  {
+    "track": "Latch (Ft. Sam Smith)",
+    "artist": "Disclosure"
+  },
+  {
+    "track": "BOSS",
+    "artist": "Disclosure"
+  },
+  {
+    "track": "Be Fine",
+    "artist": "Madeon"
+  },
+  {
+    "track": "Household Goods (Zeds Dead Remix)",
+    "artist": "Totally Enormous Extinct Dinosaurs"
+  },
+  {
+    "track": "Higher Love (Spencer Brown Remix)",
+    "artist": "Seven Lions & Jason Ross feat. Paul Meany"
+  },
+  {
+    "track": "1995 (Cloudsz Remix)",
+    "artist": "Emmit Fenn"
+  },
+  {
+    "track": "You're On ft. Kyan (Gramatik Remix)",
+    "artist": "Madeon"
+  },
+  {
+    "track": "Sleepless feat. Jezzabell Doran",
+    "artist": "Flume"
+  },
+  {
+    "track": "Whatever Ft KOLAJ (NEUS Remix)",
+    "artist": "Kaskade"
+  },
+  {
+    "track": "No Way Out",
+    "artist": "Gemini"
+  },
+  {
+    "track": "Pjanoo (Original Mix)",
+    "artist": "Eric Prydz"
+  },
+  {
+    "track": "Time To Realize",
+    "artist": "Lemaitre"
+  },
+  {
+    "track": "Lost In My Mind",
+    "artist": "R\u00c3\u0153F\u00c3\u0153S DU SOL"
+  },
+  {
+    "track": "Underwater",
+    "artist": "R\u00c3\u0153F\u00c3\u0153S DU SOL"
+  },
+  {
+    "track": "Coming Home",
+    "artist": "ILIVEHERE."
+  },
+  {
+    "track": "Let You Go",
+    "artist": "Matt Nash"
+  },
+  {
+    "track": "Telegraph Ave. (Louis Futon & Louis The Child Flip)",
+    "artist": "Childish Gambino"
+  },
+  {
+    "track": "Never Count On Me",
+    "artist": "Haywyre"
+  },
+  {
+    "track": "Turn Up (The Music)",
+    "artist": "Camo & Krooked"
+  },
+  {
+    "track": "Slow Cheetah",
+    "artist": "Red Hot Chili Peppers"
+  },
+  {
+    "track": "OG",
+    "artist": "Dropheadz"
+  },
+  {
+    "track": "Deep At Night (Adam K & Soha Remix)",
+    "artist": "Ercola & Heikki L"
+  },
+  {
+    "track": "Out The Blue ft. Alice Gold",
+    "artist": "Sub Focus"
+  },
+  {
+    "track": "Trust",
+    "artist": "What So Not & Burns"
+  },
+  {
+    "track": "Playing To Lose (Mazde Remix)",
+    "artist": "Lemaitre"
+  },
+  {
+    "track": "You Make Me",
+    "artist": "Avicii"
+  },
+  {
+    "track": "Get Free (feat. Amber Coffman) (Chrome Sparks Remix)",
+    "artist": "Major Lazer"
+  },
+  {
+    "track": "Dawn (ford. Remix)",
+    "artist": "OTR"
+  },
+  {
+    "track": "TUSK (BLANKE Remix)",
+    "artist": "Duke & Jones"
+  },
+  {
+    "track": "Magnets ft. Lorde (Jon Hopkins Remix)",
+    "artist": "Disclosure"
+  },
+  {
+    "track": "U Don't Know (Just A Gent Remix)",
+    "artist": "Alison Wonderland"
+  },
+  {
+    "track": "Good Grief (Don Diablo Remix)",
+    "artist": "Bastille"
+  },
+  {
+    "track": "New Rules (SG Lewis Remix)",
+    "artist": "Dua Lipa"
+  },
+  {
+    "track": "Catherine",
+    "artist": "k?d & Varien"
+  },
+  {
+    "track": "Lovebreak",
+    "artist": "Tube & Berger & Milan Euringer"
+  },
+  {
+    "track": "Adrenaline",
+    "artist": "Zeds Dead"
+  },
+  {
+    "track": "Presence",
+    "artist": "Petit Biscuit"
+  },
+  {
+    "track": "Sierra Leone feat. Freshly Ground (TWO FOWLS REMIX)",
+    "artist": "Mt Eden"
+  },
+  {
+    "track": "Fire Inside (Feat. Greta Svabo Bech)",
+    "artist": "Gemini"
+  },
+  {
+    "track": "Closer (Ft. Jennie A)",
+    "artist": "Lemaitre"
+  },
+  {
+    "track": "In the Morning",
+    "artist": "Kaskade vs. ZHU"
+  },
+  {
+    "track": "Sanctuary (GD Vandal Cut)",
+    "artist": "Joji"
+  },
+  {
+    "track": "Miss You [NEUS remix]",
+    "artist": "Trentemoller"
+  },
+  {
+    "track": "Take a Chance (feat. Little Dragon)",
+    "artist": "Flume"
+  },
+  {
+    "track": "Animal Rights (Ft. Wolfgang Gartner)",
+    "artist": "Deadmau5"
+  },
+  {
+    "track": "Love That Hurts (feat. Karnaval Blues & Indiana)",
+    "artist": "ZHU"
+  },
+  {
+    "track": "Stay Closer (Original Mix)",
+    "artist": "ZHU"
+  },
+  {
+    "track": "Drive (feat. Chain Gang of 1974) [Billboard Remix]",
+    "artist": "Jai Wolf"
+  },
+  {
+    "track": "I Wanna Be",
+    "artist": "Chris Lorenzo"
+  },
+  {
+    "track": "Stay Right There",
+    "artist": "Nora Van Elken"
+  },
+  {
+    "track": "Not Coming Down (Tchami Remix)",
+    "artist": "Candyland & Zak Waters"
+  },
+  {
+    "track": "2Night (Original Mix)",
+    "artist": "Eric Prydz"
+  },
+  {
+    "track": "Day N Nite (Funbite & Rannek Remix)",
+    "artist": "Kid Cudi"
+  },
+  {
+    "track": "The Zephyr Song",
+    "artist": "Red Hot Chili Peppers"
+  },
+  {
+    "track": "Something About You",
+    "artist": "Elderbrook & Rudimental"
+  },
+  {
+    "track": "I Want It All (feat. Elderbrook)",
+    "artist": "Casper Cole"
+  },
+  {
+    "track": "Help Me Lose My Mind (WellSaid & Rubberteeth Bootleg)",
+    "artist": "Disclosure feat. London Grammar"
+  },
+  {
+    "track": "Tidal Wave ft. Alpines",
+    "artist": "Sub Focus"
+  },
+  {
+    "track": "Illmerica (Radio Edit)",
+    "artist": "Wolfgang Gartner"
+  },
+  {
+    "track": "Back Of My Mind",
+    "artist": "Two Feet"
+  },
+  {
+    "track": "Riddle",
+    "artist": "Voicians"
+  },
+  {
+    "track": "Song For The One ft. Apple Gule (Kyle Watson Remix)",
+    "artist": "Kyle Watson"
+  },
+  {
+    "track": "The Future (feat. Antony & Cleopatra)",
+    "artist": "Motez"
+  },
+  {
+    "track": "BOLUMBACK",
+    "artist": "ALOK & LIU"
+  },
+  {
+    "track": "Coming Up",
+    "artist": "SG Lewis"
+  },
+  {
+    "track": "If Only ft. Eastghost, Analogue Dear, DROELOE, Taska Black, Losi, ILIVEHERE. & GOSLO",
+    "artist": "San Holo"
+  },
+  {
+    "track": "Pompeii (Bastille)",
+    "artist": "Audien"
+  },
+  {
+    "track": "Paint California (Klingande Remix)",
+    "artist": "NOMBe"
+  },
+  {
+    "track": "Bustamove",
+    "artist": "Zeds Dead"
+  },
+  {
+    "track": "Cant Tell Me Nothing",
+    "artist": "Party Pupils"
+  },
+  {
+    "track": "Architect",
+    "artist": "MYRNE"
+  },
+  {
+    "track": "Heartbeats (Extended Mix)",
+    "artist": "Grum"
+  },
+  {
+    "track": "Overload (The Chainsmokers Remix)",
+    "artist": "Life Of Dillon"
+  },
+  {
+    "track": "Paradise (Party Pupils Remix)",
+    "artist": "Bazzi"
+  },
+  {
+    "track": "Midnight",
+    "artist": "TRINIX"
+  },
+  {
+    "track": "Maelstrom",
+    "artist": "Khamsin"
+  },
+  {
+    "track": "Tonite",
+    "artist": "Eminem"
+  },
+  {
+    "track": "Toes",
+    "artist": "Glass Animals"
+  },
+  {
+    "track": "Crawl Outta Love (feat. Annika Wells)",
+    "artist": "Illenium"
+  },
+  {
+    "track": "Save Me",
+    "artist": "ZHU"
+  },
+  {
+    "track": "Magical (feat. ZOLLY)",
+    "artist": "Cassian"
+  },
+  {
+    "track": "Call On Me (Eric Prydz Remix)",
+    "artist": "Eric Prydz"
+  },
+  {
+    "track": "I'll Be Fine (ZES Remix)",
+    "artist": "Sofie Letitre"
+  },
+  {
+    "track": "Spaceship (feat. Uffie)",
+    "artist": "Galantis"
+  },
+  {
+    "track": "Shrine ft. Freya Ridings",
+    "artist": "RL Grime"
+  },
+  {
+    "track": "Survive ft. Emeli Sand\u00c3\u00a9, Gucci Mane",
+    "artist": "Don Diablo"
+  },
+  {
+    "track": "Safe & Sound",
+    "artist": "Capital Cities"
+  },
+  {
+    "track": "That Look ft. George Maple (Unreleased)",
+    "artist": "Flume"
+  },
+  {
+    "track": "Battas (feat. LissA)",
+    "artist": "Mazde"
+  },
+  {
+    "track": "Electric Feel (Nick Talos vs. CRW Edit)",
+    "artist": "MGMT"
+  },
+  {
+    "track": "I Wish I Could (feat. Selah Sue)",
+    "artist": "TOKiMONSTA"
+  },
+  {
+    "track": "All I Want (Extended Mix)",
+    "artist": "Alok & Liu feat. Stonefox"
+  },
+  {
+    "track": "GLUE",
+    "artist": "BICEP"
+  },
+  {
+    "track": "Under The Bridge",
+    "artist": "Red Hot Chili Peppers"
+  },
+  {
+    "track": "White Noise (Feat. Aluna George)",
+    "artist": "Disclosure"
+  },
+  {
+    "track": "Taking Me Higher",
+    "artist": "Rootkit"
+  },
+  {
+    "track": "Goddess",
+    "artist": "Chrome Sparks"
+  },
+  {
+    "track": "My Life (LoKii Cover)",
+    "artist": "ZHU & Tame Impala"
+  },
+  {
+    "track": "Emerald Rush",
+    "artist": "Jon Hopkins"
+  },
+  {
+    "track": "Feel",
+    "artist": "Enamour"
+  },
+  {
+    "track": "Borneo",
+    "artist": "Nora Van Elken"
+  },
+  {
+    "track": "Trying To Be Cool (The Chainsmokers Remix)",
+    "artist": "Phoenix"
+  },
+  {
+    "track": "Sunset Lover (Slow Hours Remix)",
+    "artist": "Petit Biscuit"
+  },
+  {
+    "track": "Breathing",
+    "artist": "Ben B\u00c3\u00b6hmer, Nils Hoffmann, Malou"
+  },
+  {
+    "track": "Nexus 6",
+    "artist": "Andrew Bayer"
+  },
+  {
+    "track": "With You Friends (Long Drive) [Evan Duffy Piano Cover]",
+    "artist": "Skrillex"
+  },
+  {
+    "track": "Sunburn",
+    "artist": "DROELOE"
+  },
+  {
+    "track": "We Were Young (Sascha Kloeber Remix)",
+    "artist": "SRTW"
+  },
+  {
+    "track": "Welcome Back",
+    "artist": "ARKTKT"
+  },
+  {
+    "track": "Heroes (we could be)",
+    "artist": "Alesso"
+  },
+  {
+    "track": "Carry Me Away (Radio Edit)",
+    "artist": "Chris Lake feat. Emma Hewitt"
+  },
+  {
+    "track": "Show Me Love (EDX's Indian Summer Remix)",
+    "artist": "Sam Feldt"
+  },
+  {
+    "track": "Sunrise (Dear David Remix)",
+    "artist": "Sn\u00c3\u00b8"
+  },
+  {
+    "track": "Superman",
+    "artist": "Mat Zo"
+  },
+  {
+    "track": "PATIENCE",
+    "artist": "Hippie Sabotage"
+  },
+  {
+    "track": "Here With You (Extended Mix)",
+    "artist": "Lost Frequencies & Netsky"
+  },
+  {
+    "track": "Front To Back (Bassnectar Remix)",
+    "artist": "Buku"
+  },
+  {
+    "track": "Part 10 - skeler go deep rainer",
+    "artist": null
+  },
+  {
+    "track": "International Anthem feat. Doctor",
+    "artist": "Flux Pavilion"
+  },
+  {
+    "track": "Its Only (feat. Zyra) [ODESZA VIP Remix]",
+    "artist": "ODESZA"
+  },
+  {
+    "track": "Bygones",
+    "artist": "Oliver"
+  },
+  {
+    "track": "Pierce Fulton - The Move (Direct Remix)",
+    "artist": null
+  },
+  {
+    "track": "Home In August",
+    "artist": "Pierce Fulton"
+  },
+  {
+    "track": "Fresh Static Snow (Live Edit)",
+    "artist": "Porter Robinson"
+  },
+  {
+    "track": "Jericho",
+    "artist": "Zeds Dead ft. Memorecks"
+  },
+  {
+    "track": "Running to You",
+    "artist": "Dabin"
+  },
+  {
+    "track": "Over",
+    "artist": "HONORS"
+  },
+  {
+    "track": "0:59",
+    "artist": "DANGER"
+  },
+  {
+    "track": "All I Really Need (feat. Kenzie May)",
+    "artist": "Vindata"
+  },
+  {
+    "track": "Love Me (Tom Budin Remix)",
+    "artist": "Torren Foot"
+  },
+  {
+    "track": "I Swear - Dirty South Remix",
+    "artist": "Dirty South"
+  },
+  {
+    "track": "The Things You Say (Dirty South Remix)",
+    "artist": "Cicada"
+  },
+  {
+    "track": "Gangsta Gangsta",
+    "artist": "DR. FRESCH ft. Baby Eazy E"
+  },
+  {
+    "track": "Red Lights",
+    "artist": "Kill Paris"
+  },
+  {
+    "track": "We Made You",
+    "artist": "Eminem"
+  },
+  {
+    "track": "My My My (Throttle Remix)",
+    "artist": "Troye Sivan"
+  },
+  {
+    "track": "Actif ft Billboard",
+    "artist": "RealMind"
+  },
+  {
+    "track": "Midnight Hearts",
+    "artist": "Sam Feldt & The Him feat. ANGI3"
+  },
+  {
+    "track": "We Collide",
+    "artist": "MitiS"
+  },
+  {
+    "track": "Time Dilation",
+    "artist": "Mat Zo"
+  },
+  {
+    "track": "Mountains and Molehills feat. Turin Brakes",
+    "artist": "Flux Pavilion"
+  },
+  {
+    "track": "Summerbreeze",
+    "artist": "Deep Chills"
+  },
+  {
+    "track": "City Of Dreams - Radio Edit",
+    "artist": "Dirty South"
+  },
+  {
+    "track": "Lay Down",
+    "artist": "Touch Sensitive"
+  },
+  {
+    "track": "What Is House",
+    "artist": "Calippo"
+  },
+  {
+    "track": "Kuaga (Odd Mob Remix)",
+    "artist": "Pierce Fulton"
+  },
+  {
+    "track": "Flip The Funk",
+    "artist": "Loge21"
+  },
+  {
+    "track": "Neptune",
+    "artist": "EDX"
+  },
+  {
+    "track": "Hear The Bells (Feat. Imaginary Cities)",
+    "artist": "Porter Robinson"
+  },
+  {
+    "track": "Part 1 - kaskade zhu rebound lux",
+    "artist": null
+  },
+  {
+    "track": "Faded (ODESZA Remix)",
+    "artist": "ZHU"
+  },
+  {
+    "track": "I See Fire",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "track": "Light (Beau Collins Remix)",
+    "artist": "San Holo"
+  },
+  {
+    "track": "Losing It",
+    "artist": "Fisher"
+  },
+  {
+    "track": "Secrets (feat. Conrad Sewell) [Kaskade Remix]",
+    "artist": "CID"
+  },
+  {
+    "track": "Never Know",
+    "artist": "Harmo & Vibes"
+  },
+  {
+    "track": "My Love 2 U (ft. Emily J)",
+    "artist": "WATEVA"
+  },
+  {
+    "track": "The Take Down",
+    "artist": "Dabin & Koda"
+  },
+  {
+    "track": "Never Be Like You feat. Kai",
+    "artist": "Flume"
+  },
+  {
+    "track": "Rushing Back (feat. Vera Blue)",
+    "artist": "Flume"
+  },
+  {
+    "track": "Light (Dave Winnel Remix)",
+    "artist": "San Holo"
+  },
+  {
+    "track": "Memories (Robotaki Remix)",
+    "artist": "Billboard"
+  },
+  {
+    "track": "Don't Leave (Throttle Remix)",
+    "artist": "Snakehips & M\u00c3\u02dc"
+  },
+  {
+    "track": "RESET",
+    "artist": "sober rob"
+  },
+  {
+    "track": "Why'd You Only Call Me When You're High?",
+    "artist": "Arctic Monkeys"
+  },
+  {
+    "track": "How Many Times",
+    "artist": "Elderbrook & Andhim"
+  },
+  {
+    "track": "Easy (Radio Edit)",
+    "artist": "Mat Zo & Porter Robinson"
+  },
+  {
+    "track": "Release Me ft. Lotti",
+    "artist": "Foamo"
+  },
+  {
+    "track": "Problems (feat. Lido) (Taska Black Remix)",
+    "artist": "Petit Biscuit"
+  },
+  {
+    "track": "Kuaga",
+    "artist": "Pierce Fulton"
+  },
+  {
+    "track": "Feel So Close",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Rainforest",
+    "artist": "Tchami"
+  },
+  {
+    "track": "I Will Be Here (Tiesto/Sneaky Sound System)",
+    "artist": "Wolfgang Gartner"
+  },
+  {
+    "track": "Yah Yah (Loge21 Remix)",
+    "artist": "Travis Scott"
+  },
+  {
+    "track": "Hard Times",
+    "artist": "GRiZ"
+  },
+  {
+    "track": "Language",
+    "artist": "Porter Robinson"
+  },
+  {
+    "track": "Faded",
+    "artist": "ZHU"
+  },
+  {
+    "track": "Part 2 - good life places",
+    "artist": null
+  },
+  {
+    "track": "Paper Love (Billboard Remix)",
+    "artist": "Allie X"
+  },
+  {
+    "track": "Random Access Memories (Vanderway Remix)",
+    "artist": "Daft Punk"
+  },
+  {
+    "track": "Say A Prayer For Me (MK Remix)",
+    "artist": "R\u00c3\u0153F\u00c3\u0153S DU SOL"
+  },
+  {
+    "track": "Aldrig Mer (feat. TENDER)",
+    "artist": "Kasbo"
+  },
+  {
+    "track": "High Rush",
+    "artist": "Billboard & Realmind"
+  },
+  {
+    "track": "I Get You (feat. Lizzy Land)",
+    "artist": "Kasbo"
+  },
+  {
+    "track": "Real Love (The Chainsmokers Remix)",
+    "artist": "Clean Bandit & Jess Glynne"
+  },
+  {
+    "track": "We Rise",
+    "artist": "San Holo"
+  },
+  {
+    "track": "Only Be Me",
+    "artist": "DROELOE"
+  },
+  {
+    "track": "Momentum (Extended Mix)",
+    "artist": "Don Diablo"
+  },
+  {
+    "track": "Sweet Lies ft. Karen Harding",
+    "artist": "Wilkinson"
+  },
+  {
+    "track": "I'm Not Alone (Deadmau5 Remix)",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Golden Dreams",
+    "artist": "BLU J"
+  },
+  {
+    "track": "Do It Like You (Airwolf Remix)",
+    "artist": "Crooked Colours"
+  },
+  {
+    "track": "Chameleon (Dom Dolla Remix)",
+    "artist": "PNAU"
+  },
+  {
+    "track": "Apex (Produced By Knife Party)",
+    "artist": "Foreign Beggars"
+  },
+  {
+    "track": "Wake Up (Crankdat Remix)",
+    "artist": "Travis Scott & The Weeknd"
+  },
+  {
+    "track": "Snap Out of It",
+    "artist": "Arctic Monkeys"
+  },
+  {
+    "track": "Sandstorm",
+    "artist": "Da Rude"
+  },
+  {
+    "track": "Easy (Extended Mix)",
+    "artist": "Mat Zo & Porter Robinson"
+  },
+  {
+    "track": "Missing You",
+    "artist": "Icarus"
+  },
+  {
+    "track": "1991 - Nine Clouds",
+    "artist": null
+  },
+  {
+    "track": "Hours",
+    "artist": "Billboard"
+  },
+  {
+    "track": "Drifting",
+    "artist": "Zeds Dead"
+  },
+  {
+    "track": "Lionhearted (feat. Urban Cone)",
+    "artist": "Porter Robinson"
+  },
+  {
+    "track": "Numb",
+    "artist": "ZHU"
+  },
+  {
+    "track": "PTSD",
+    "artist": "Yoe Mase"
+  },
+  {
+    "track": "Lights (Nitti Gritti Remix)",
+    "artist": "San Holo vs Kanye West"
+  },
+  {
+    "track": "Let You Down (Dom Dolla Remix)",
+    "artist": "Peking Duk"
+  },
+  {
+    "track": "One Drink",
+    "artist": "DLMT & Paraleven"
+  },
+  {
+    "track": "Rather Be (Feat. Jess Glynne)",
+    "artist": "Clean Bandit"
+  },
+  {
+    "track": "Working For It (TWO LANES Remix)",
+    "artist": "ZHU x Skrillex x THEY."
+  },
+  {
+    "track": "DMMH",
+    "artist": "TRAILS"
+  },
+  {
+    "track": "Tokyo Nights",
+    "artist": "Digital Farm Animals & Shaun Frank & Dragonette"
+  },
+  {
+    "track": "My Way",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "I Don't Need Love",
+    "artist": "Karen Harding x Wh0"
+  },
+  {
+    "track": "Do It Like You (Babert Remix)",
+    "artist": "Crooked Colours"
+  },
+  {
+    "track": "All Night",
+    "artist": "Example"
+  },
+  {
+    "track": "Must Be The Feeling",
+    "artist": "Nero"
+  },
+  {
+    "track": "Man With The Red Face (Hardwell Remix)",
+    "artist": "Mark Knight & Funkagenda"
+  },
+  {
+    "track": "Tell Me Crime (Adrien Mezsi Bootleg)",
+    "artist": "Supermode & Henrik B"
+  },
+  {
+    "track": "Collapse (feat. Memorecks)",
+    "artist": "Zeds Dead"
+  },
+  {
+    "track": "Circles (Eric Prydz Remix)",
+    "artist": "Digitalism"
+  },
+  {
+    "track": "A Different Way feat. Lauv (Tony Romera Remix)",
+    "artist": "DJ Snake"
+  },
+  {
+    "track": "Thinking About You (Tez Cadey Remix)",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Listen To Me (Cassian Remix)",
+    "artist": "Bob Moses"
+  },
+  {
+    "track": "Spectral Range",
+    "artist": "Quiet Bison"
+  },
+  {
+    "track": "Embracing Solitude (Blackmill Remix)",
+    "artist": "JCB"
+  },
+  {
+    "track": "Prelude (Original Mix)",
+    "artist": "Michael Calfan"
+  },
+  {
+    "track": "SS - Menu demo_261117",
+    "artist": "Michal Wiraszka"
+  },
+  {
+    "track": "Holdin On",
+    "artist": "Flume"
+  },
+  {
+    "track": "In The End (I Want You To Cry)",
+    "artist": "Tensnake"
+  },
+  {
+    "track": "Girl",
+    "artist": "NVOY"
+  },
+  {
+    "track": "She Heals Everything (Remake)",
+    "artist": "Porter Robinson"
+  },
+  {
+    "track": "Desert Night",
+    "artist": "R\u00c3\u0153F\u00c3\u0153S DU SOL "
+  },
+  {
+    "track": "Fade",
+    "artist": "Imagined Herbal Flows (IHF)"
+  },
+  {
+    "track": "Genesis",
+    "artist": "Justice"
+  },
+  {
+    "track": "New Blood",
+    "artist": "Koda"
+  },
+  {
+    "track": "Retrograde",
+    "artist": "Vincent"
+  },
+  {
+    "track": "2 - Lotus Lovebreak Funk Rebound (almost done) 128",
+    "artist": "Adam Wiraszka"
+  },
+  {
+    "track": "Know U Well",
+    "artist": "Cassian"
+  },
+  {
+    "track": "Like This (VIP Edit)",
+    "artist": "Throttle"
+  },
+  {
+    "track": "Look Around",
+    "artist": "Evokings"
+  },
+  {
+    "track": "Line Of Sight (feat. WYNNE & Mansionair)",
+    "artist": "ODESZA"
+  },
+  {
+    "track": "Bad Habits",
+    "artist": "EDDIE"
+  },
+  {
+    "track": "I Don't Feel Alive",
+    "artist": "AOBeats"
+  },
+  {
+    "track": "The Greatest View (feat. Isabella Manfredi)",
+    "artist": "Flume"
+  },
+  {
+    "track": "Keep it Mello (Ft. Omar LinX)",
+    "artist": "Marshmello"
+  },
+  {
+    "track": "Paranoid Android",
+    "artist": "Radiohead"
+  },
+  {
+    "track": "Hotline Bling (Soku Cover)",
+    "artist": "Drake"
+  },
+  {
+    "track": "Without You (feat. Totally Enormous Extinct Dinosaurs)",
+    "artist": "Dillon Francis"
+  },
+  {
+    "track": "Electrified (Mat Zo Electrofied Dub Mix)",
+    "artist": "Mat Zo"
+  },
+  {
+    "track": "Would U Ever (TWO OWLS Remix)",
+    "artist": "Skrillex & Poo Bear"
+  },
+  {
+    "track": "Lovin Me",
+    "artist": "SNBRN"
+  },
+  {
+    "track": "Follow Me",
+    "artist": "Oliver Smith"
+  },
+  {
+    "track": "One Night",
+    "artist": "SOULJI"
+  },
+  {
+    "track": "Amsterjam",
+    "artist": "FKJ & June Marieezy"
+  },
+  {
+    "track": "Brooklyn In The Summer (Nathan Jain Remix)",
+    "artist": "Aloe Blacc"
+  },
+  {
+    "track": "Sing for the Moment (ft. Steven Tyler & Joe Perry)",
+    "artist": "Eminem"
+  },
+  {
+    "track": "You & I (feat. November Lights)",
+    "artist": "Nexeri"
+  },
+  {
+    "track": "Make Me Fade (B. Lewis Remix)",
+    "artist": "K.Flay"
+  },
+  {
+    "track": "Once Again",
+    "artist": "MOUNT & Palastic"
+  },
+  {
+    "track": "Money",
+    "artist": "Jerry Folk"
+  },
+  {
+    "track": "Dreams",
+    "artist": "ZHU & Nero"
+  },
+  {
+    "track": "After The Water",
+    "artist": "Zeds Dead"
+  },
+  {
+    "track": "Two Minds",
+    "artist": "Nero"
+  },
+  {
+    "track": "Rushing Back (GD Vandal Cut)",
+    "artist": "Flume"
+  },
+  {
+    "track": "Trance & Dental",
+    "artist": "Moon Boots"
+  },
+  {
+    "track": "Treasured Soul (Original Mix)",
+    "artist": "Michael Calfan"
+  },
+  {
+    "track": "SS - Power Friendly demo_24111",
+    "artist": "Michal Wiraszka"
+  },
+  {
+    "track": "The Sky Is The Limit",
+    "artist": "Biggie Smalls"
+  },
+  {
+    "track": "Seve (Original Mix)",
+    "artist": "Tez Cadey"
+  },
+  {
+    "track": "Hadouken",
+    "artist": "Zeds Dead"
+  },
+  {
+    "track": "Purple Haze",
+    "artist": "The Jimi Hendrix Experience"
+  },
+  {
+    "track": "Remote Viewing",
+    "artist": "EASTGHOST"
+  },
+  {
+    "track": "Phantom Pt II",
+    "artist": "Justice"
+  },
+  {
+    "track": "Solace",
+    "artist": "R\u00c3\u0153F\u00c3\u0153S DU SOL "
+  },
+  {
+    "track": "Bodied",
+    "artist": "Kai Wachi"
+  },
+  {
+    "track": "Virtual Self - a.i.ngel (Become God)",
+    "artist": "Porter Robinson"
+  },
+  {
+    "track": "Ego (NVOY Remix)",
+    "artist": "Tove Styrke"
+  },
+  {
+    "track": "The Last Stand",
+    "artist": "Koda"
+  },
+  {
+    "track": "Forbidden Voices",
+    "artist": "Martin Garrix"
+  },
+  {
+    "track": "Bass Inside",
+    "artist": "AC Slater"
+  },
+  {
+    "track": "HyperParadise",
+    "artist": "Flume"
+  },
+  {
+    "track": "Found (Amtrac Remix)",
+    "artist": "Steven A. Clark"
+  },
+  {
+    "track": "Show Me",
+    "artist": "ODESZA"
+  },
+  {
+    "track": "Time",
+    "artist": "Halogen"
+  },
+  {
+    "track": "The Last Stand (Claes Rosen Remix)",
+    "artist": "Koda"
+  },
+  {
+    "track": "Need You",
+    "artist": "Dillon Francis & NGHTMRE"
+  },
+  {
+    "track": "Passionfruit (Eminence x Delaney Kai Remix)",
+    "artist": "Drake"
+  },
+  {
+    "track": "3 - Lights No Place Untrue (almost done) Am 123",
+    "artist": "Adam Wiraszka"
+  },
+  {
+    "track": "TRUST feat. Isabella Manfredi",
+    "artist": "Flume"
+  },
+  {
+    "track": "Electrified (Tate & Diamond ft Nicolai)",
+    "artist": "Mat Zo"
+  },
+  {
+    "track": "Dreaming (The Chainsmokers Remix)",
+    "artist": "Smallpools"
+  },
+  {
+    "track": "Innerbloom (What So Not Remix)",
+    "artist": "R\u00c3\u0153F\u00c3\u0153S DU SOL"
+  },
+  {
+    "track": "La Casa De Papel (Roger Melo Remix)",
+    "artist": "La"
+  },
+  {
+    "track": "Like Water feat. MNDR",
+    "artist": "Flume"
+  },
+  {
+    "track": "Blood (Mazde Remix)",
+    "artist": "Osca"
+  },
+  {
+    "track": "Burns (Lane 8 Morning Mix)",
+    "artist": "George FitzGerald"
+  },
+  {
+    "track": "All The Wonder (Enamour Remix)",
+    "artist": "Eau Claire"
+  },
+  {
+    "track": "Velvet Dream",
+    "artist": "William French"
+  },
+  {
+    "track": "I'm Only Sleeping",
+    "artist": "The Beatles"
+  },
+  {
+    "track": "I Dont Need You",
+    "artist": "TheLavish"
+  },
+  {
+    "track": "Giver (Sly Sir Remix)",
+    "artist": "K.Flay"
+  },
+  {
+    "track": "Pink",
+    "artist": "Two Feet"
+  },
+  {
+    "track": "Secrets",
+    "artist": "Mija"
+  },
+  {
+    "track": "Anywhere You Go (ft. Timmy Trumpet)",
+    "artist": "Nervo"
+  },
+  {
+    "track": "SS - Power Foe demo_221117",
+    "artist": "Michal Wiraszka"
+  },
+  {
+    "track": "Take It Easy (Matstubs Remix)",
+    "artist": "Jetta"
+  },
+  {
+    "track": "Promise Me A Rose Garden",
+    "artist": "The M Machine"
+  },
+  {
+    "track": "Let You Know",
+    "artist": "King Henry"
+  },
+  {
+    "track": "Do You Want Me",
+    "artist": "rrotik"
+  },
+  {
+    "track": "Cant Get Better Than This",
+    "artist": "Parachute Youth"
+  },
+  {
+    "track": "Storyteller (Kill Paris Remix)",
+    "artist": "Haywyre"
+  },
+  {
+    "track": "Set Me Free",
+    "artist": "Martin Garrix & Dillon Francis"
+  },
+  {
+    "track": "Things I Said",
+    "artist": "Nu Aspect"
+  },
+  {
+    "track": "Virtual Self - Ghost Voices",
+    "artist": "Porter Robinson"
+  },
+  {
+    "track": "On Your Side ft. Russ Liquid",
+    "artist": "OPIUO"
+  },
+  {
+    "track": "This Girl",
+    "artist": "Kungs vs Cookin' on 3 Burners"
+  },
+  {
+    "track": "Storm",
+    "artist": "Justin Jay"
+  },
+  {
+    "track": "Indian Summer (Kasbo Remix)",
+    "artist": "Jai Wolf"
+  },
+  {
+    "track": "You're Not Alone (Adam K. & Soha Remix)",
+    "artist": "Adam K"
+  },
+  {
+    "track": "Hit Me (Full Version)",
+    "artist": "Zeds Dead"
+  },
+  {
+    "track": "Wonderbloom [kyto edit]",
+    "artist": "Adventure Club x R\u00c3\u0153F\u00c3\u0153S DU SOL x What So Not "
+  },
+  {
+    "track": "Adieu",
+    "artist": "Tchami"
+  },
+  {
+    "track": "Eyes",
+    "artist": "R\u00c3\u0153F\u00c3\u0153S DU SOL "
+  },
+  {
+    "track": "Mammoth vs Midnight City (Radio Edit)",
+    "artist": "Dimitri Vegas & Like Mike"
+  },
+  {
+    "track": "Ocean Drive (Hayden James Remix)",
+    "artist": "Duke Dumont"
+  },
+  {
+    "track": "Bunda (feat. Dances With White Girls)",
+    "artist": "Wax Motif"
+  },
+  {
+    "track": "Insane (Jey Vazz Remix)",
+    "artist": "Flume"
+  },
+  {
+    "track": "Killing In The Name (Just A Tune Flip)",
+    "artist": "Rage Against the Machine"
+  },
+  {
+    "track": "Burns (Lane 8 Club Mix)",
+    "artist": "George FitzGerald"
+  },
+  {
+    "track": "4 - U Adieu Raito Glue Mirage (almost done) B 123",
+    "artist": "Adam Wiraszka"
+  },
+  {
+    "track": "By My Side",
+    "artist": "SMLE"
+  },
+  {
+    "track": "Blind Love",
+    "artist": "Trinix"
+  },
+  {
+    "track": "Innerbloom",
+    "artist": "R\u00c3\u0153F\u00c3\u0153S DU SOL"
+  },
+  {
+    "track": "Say It feat. Tove Lo (SG Lewis Remix)",
+    "artist": "Flume"
+  },
+  {
+    "track": "17",
+    "artist": "Solar"
+  },
+  {
+    "track": "v",
+    "artist": "Flume"
+  },
+  {
+    "track": "Arty Boy (Dom Dolla 'Party Boy' Remix)",
+    "artist": "Flight Facilities & Emma Louise"
+  },
+  {
+    "track": "Bloom",
+    "artist": "IHF"
+  },
+  {
+    "track": "Rio (Ft. Digital Farm Animals)",
+    "artist": "Netsky"
+  },
+  {
+    "track": "We Would Never Do (feat. Nevve)",
+    "artist": "Taska Black"
+  },
+  {
+    "track": "Better Off (filous Remix)",
+    "artist": "Jeremy Zucker & Chelsea Cutler"
+  },
+  {
+    "track": "SS - Defeat demo_201117",
+    "artist": "Michal Wiraszka"
+  },
+  {
+    "track": "Feel It Still (Lido Remix)",
+    "artist": "Portugal. The Man"
+  },
+  {
+    "track": "Hacker",
+    "artist": "Black Tiger Sex Machine & Blanke"
+  },
+  {
+    "track": "Paradise Circus (Zeds Dead Remix)",
+    "artist": "Massive Attack"
+  },
+  {
+    "track": "Know Love (OTR Remix)",
+    "artist": "RKCB"
+  },
+  {
+    "track": "Kallisto",
+    "artist": "Camo & Krooked & Mefjus"
+  },
+  {
+    "track": "Little Wing",
+    "artist": "Jimi Hendrix"
+  },
+  {
+    "track": "Good Times Bad Times (Document One Remix)",
+    "artist": "Camo & Krooked"
+  },
+  {
+    "track": "Don't Go (Dusky Remix)",
+    "artist": "Justin Martin"
+  },
+  {
+    "track": "Nudge (Original Mix)",
+    "artist": "Felguk vs. Dirtyloud"
+  },
+  {
+    "track": "Stolen Dance (Flic Flac Edit)",
+    "artist": "Milky Chance"
+  },
+  {
+    "track": "Lucy In The Sky With Diamonds",
+    "artist": "The Beatles"
+  },
+  {
+    "track": "Only (Kaskade & Lipless Remix)",
+    "artist": "RY X "
+  },
+  {
+    "track": "FML",
+    "artist": "K.Flay"
+  },
+  {
+    "track": "Love Game (ft. Kendrick Lamar)",
+    "artist": "Eminem"
+  },
+  {
+    "track": "Summertime Sadness (Cedric Gervais Remix)",
+    "artist": "Lana Del Rey"
+  },
+  {
+    "track": "Dark Room Perfume",
+    "artist": "Kyle Walker"
+  },
+  {
+    "track": "REJ (Original Mix)",
+    "artist": "Dimitri Vegas & Like Mike"
+  },
+  {
+    "track": "Lights Out (Ft. Atlas)",
+    "artist": "Zeds Dead"
+  },
+  {
+    "track": "Breathe feat. Jem Cooke (Radio Mix)",
+    "artist": "CamelPhat & Cristoph"
+  },
+  {
+    "track": "Pumpernickel (feat. Hypnotech)",
+    "artist": "OPIUO"
+  },
+  {
+    "track": "The Apologist",
+    "artist": "EASTGHOST"
+  },
+  {
+    "track": "You're So Cold",
+    "artist": "Two Feet"
+  },
+  {
+    "track": "Hell on Earth",
+    "artist": "REZZ x YULTRON"
+  },
+  {
+    "track": "5 - Places Good Life 9000 Miles (almost done) Fm 123",
+    "artist": "Adam Wiraszka"
+  },
+  {
+    "track": "Don't Let Me Go",
+    "artist": "Lane 8"
+  },
+  {
+    "track": "Wolves",
+    "artist": "Snavs & Fabian Mazur"
+  },
+  {
+    "track": "I Know",
+    "artist": "Oliver Smith"
+  },
+  {
+    "track": "Insane (Kaivon Remix)",
+    "artist": "Flume"
+  },
+  {
+    "track": "Swetro [Silk Music]",
+    "artist": "Johan Vilborg"
+  },
+  {
+    "track": "Did I Let You Know",
+    "artist": "Red Hot Chili Peppers"
+  },
+  {
+    "track": "Adieu (Part II)",
+    "artist": "Tchami"
+  },
+  {
+    "track": "New Sky",
+    "artist": "R\u00c3\u0153F\u00c3\u0153S DU SOL "
+  },
+  {
+    "track": "Late Night",
+    "artist": "ODESZA"
+  },
+  {
+    "track": "Clair de Lune (feat. Christine Hoberg) [Motez Remix]",
+    "artist": "Flight Facilities"
+  },
+  {
+    "track": "Stay For It (feat. Miguel)",
+    "artist": "RL Grime"
+  },
+  {
+    "track": "Stranger Things (2 Below Remix)",
+    "artist": "Stranger"
+  },
+  {
+    "track": "Drop the Game",
+    "artist": "Flume & Chet Faker"
+  },
+  {
+    "track": "Pictures In My Head (VIP Mix)",
+    "artist": "MJ Cole"
+  },
+  {
+    "track": "Innocence feat. AlunaGeorge",
+    "artist": "Flume"
+  },
+  {
+    "track": "The Dopest (Cesqeaux Remix)",
+    "artist": "Moksi"
+  },
+  {
+    "track": "Bipolar (Original Mix)",
+    "artist": "Mat Zo"
+  },
+  {
+    "track": "Episode 43 - Wrath of the Khans I",
+    "artist": "Dan Carlin"
+  },
+  {
+    "track": "Ghostly",
+    "artist": "Jesper Ryom"
+  },
+  {
+    "track": "I Don't Want To",
+    "artist": "NEUS"
+  },
+  {
+    "track": "On Your Side",
+    "artist": "Matter Of Tact"
+  },
+  {
+    "track": "Euphoria Theme (LUUDE Remix)",
+    "artist": null
+  },
+  {
+    "track": "Odyssey (Kyle Watson Remix)",
+    "artist": "Justin Martin"
+  },
+  {
+    "track": "Turn Me Up (Low Steppa Remix)",
+    "artist": "MOTi"
+  },
+  {
+    "track": "Break The Fall (Embody Remix)",
+    "artist": "Laura Welsh"
+  },
+  {
+    "track": "You Are",
+    "artist": "NVOY"
+  },
+  {
+    "track": "In Exile",
+    "artist": "Thrice"
+  }
+]

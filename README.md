@@ -1,49 +1,19 @@
-## music-organizer
+# music-organizer
 
-# Current functionalities
+## Current functionalities
 
-**1) audio-file-fixer.py**
+**1) song-reformat.py**
 - input is a directory with music files
-- scans files for proper music format (mp3)
-- scans metadata of all music files and reformats them into specified fields
-- creates txt file with original media tags "original-info.txt"
+- scans files for mp3 audio format
+- reformats song info and saves to list
+- creates txt file with original media tags "original-info.txt" in json format
 - reformats tags to include 'remixed by', 'featuring', 'mix'
-- creates txt file with new media tags "songs.txt"
+- creates txt file with new media tags "songs.txt" in json format
 
-**2) spotify-lookup.py**
--
-
-
-
-**3) error-checking.py**
-
-
-
-
-
-
-
-
-# Functionalities to add:
-
-**1) audio-file-fixer.py**
-- fill in title and artist tags from filename if none present
-- fix issue with 'None' (string) vs null
-- handle foreign keyboard characters
-
-
-**2) spotify-lookup.py**
-- download album cover
-- get bpm for songs (either through analyzing wave file or scraping info)
-- get key for songs
-- get genre for songs
-- add search sequence to search multiple times with different combos of tags
--
-
-
-**Other ideas**
-- add shazam (waveform comparison) functionality if possible
-- incorporate youtube API search into matching to make it more accurate and deal with lesser known songs
--
-- suggest recommended songs based on songs already analyzed (maybe using AI, training a neural net)
--
+**2) music-update-tags.py**
+- takes song.txt and corresponding audio files as input
+- searches spotify API for each song using reformatted song.txt info
+- spotify API search queries must closely match song name on spotify so multiple search attempts with various combos of song info are used
+- fuzzy match and compare duration between audio file and spotify API results
+- if match above threshold, dl album cover and reformat tags on audio file
+- each change is documented in manifest.txt as script progresses through audio files

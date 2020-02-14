@@ -7,14 +7,17 @@ from mutagen import MutagenError
 from mutagen.mp3 import MP3
 
 # Specify directory where audio files are located
-#root = "C:/Users/Adam/Documents/Adam's Music"
-root = "C:/Users/Adam/Desktop/Projects/music/sample-music-test"
+root = "C:/Users/Adam/Documents/Adams Music2"
+original_info_txt = "C:/Users/Adam/Desktop/Projects/music/music-organizer/original-info.txt"
+#root = "C:/Users/Adam/Desktop/Projects/music/music-organizer/sample-music2"
 all_tags = []
 
-def get_tags(filename, song):
+def get_tags(filepath, song):
 # Retrieves relevant file tags for each song, then puts them in dict with the following keys:
     tags = {
         'id' : '',
+        'file_path' : '',
+        'file_name' : '',
         'artist' : '',
         'title' : '',
         'mix' : '',
@@ -26,7 +29,7 @@ def get_tags(filename, song):
         'duration' : '',
         'bitrate' : '',
         }
-    info = mutagen.File(filename, easy=True)
+    info = mutagen.File(filepath, easy=True)
 
     for key in tags.keys():
         if key in info.keys():
@@ -34,9 +37,11 @@ def get_tags(filename, song):
         if key not in info.keys():
             tags[key] = 'None'
 # Get song duration and bitrate using MP3 module
-    extra_info = MP3(filename)
+    extra_info = MP3(filepath)
     tags['duration'] = extra_info.info.length
     tags['bitrate'] = extra_info.info.bitrate
+    tags['file_path'] = filepath
+    tags['file_name'] = filename
 # Create list containing all songs and tags
     all_tags.append(tags)
 # Add 'id' number
@@ -48,7 +53,7 @@ def get_tags(filename, song):
     global old_tags
     old_tags = all_tags
     old_tags = json.dumps(old_tags, indent=2)
-    with open('C:/Users/Adam/Desktop/Projects/music/original-info.txt','w') as original:
+    with open('C:/Users/Adam/Desktop/Projects/music/music-organizer/original-info.txt','w') as original:
         original.write(old_tags)
 
     return all_tags, tags, old_tags
@@ -177,6 +182,13 @@ def final_formatting(all_tags):
         except:
             tags['title'] = tags['title'].strip()
             print('one string in title tag. unaffected.', tags['title'])
+            if 'remix' in tags['title'].lower():
+                split = tags['title'].split()
+                for i, w in enumerate(split):
+                    if w == 'remix' or w == 'Remix':
+                        tags['mix'] = split[i-1] + ' ' + w
+                        tags['title'] = tags['title'].replace(tags['mix'], '').strip()
+            count = 1
 
         if count == 1:
             print('found one item as type=list')
@@ -198,19 +210,27 @@ def final_formatting(all_tags):
 def create_json(all_tags):
     song_info = json.dumps(all_tags, indent=2)
     print(song_info)
-    with open('C:/Users/Adam/Desktop/Projects/music/songs.txt','w') as songs:
+    with open('C:/Users/Adam/Desktop/Projects/music/music-organizer/songs.txt','w') as songs:
         songs.write(song_info)
     return song_info
 
 
+if os.path.exists(original_info_txt):
+    with open(original_info_txt, 'r') as info:
+        contents = json.loads(info.read())
+else:
+    print('info file does not exist')
+    quit()
 for song in os.listdir(root):
     if song.endswith((".mp3",".m4a",".flac",".alac")):
+        filepath = root + "/" + song
+        filename = song
         try:
-            filename = root + "/" + song
-            get_tags(filename, song)
+            get_tags(filepath, song)
         except MutagenError:
-            print("error")
+            print("error for:", filename)
             continue
+
 fix_title(all_tags)
 fix_brackets(all_tags)
 check_featured(all_tags)
